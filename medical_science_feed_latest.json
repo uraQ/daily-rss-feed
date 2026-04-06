@@ -1,44 +1,52 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-04-05 11:23:51",
-    "date_jst": "2026-04-05",
-    "item_count": 4,
+    "generated_at": "2026-04-06 11:23:55",
+    "date_jst": "2026-04-06",
+    "item_count": 5,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
-      "ja_title": "アルテミスIIの宇宙飛行士たちは月の裏側で何を探すのか",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01103-9",
-      "rss_published_at": "2026-04-04T00:00:00.000Z"
+      "title": "Silent Aspiration",
+      "ja_title": "静かな願望",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2516115?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-04T11:30:00.000Z"
     },
     {
       "index": 2,
-      "title": "Conscious Detection of Spoken Words Depends on Their Valence",
-      "ja_title": "話し言葉の意識的な検出は、その語価に依存する",
-      "media": "Psychological Science",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/09567976261434113?ai=2b4&mi=ehikzz&af=R",
-      "rss_published_at": "2026-04-03T11:26:59.000Z"
+      "title": "From Clinic to Community — The EveryONE Project in Family Medicine",
+      "ja_title": "診療所から地域社会へ ― 家庭医療におけるEveryONEプロジェクト",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2509686?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-04T11:30:00.000Z"
     },
     {
       "index": 3,
-      "title": "The Rise, Impact, and Imbalances of Big-Team Psychology",
-      "ja_title": "大規模チーム心理学の台頭、影響、そして不均衡",
-      "media": "Psychological Science",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/09567976261433459?ai=2b4&mi=ehikzz&af=R",
-      "rss_published_at": "2026-04-03T11:07:43.000Z"
+      "title": "Leveraging School Systems as Data Partners to Advance Health Equity",
+      "ja_title": "学校システムをデータパートナーとして活用し、健康格差の解消を推進する",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516497?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-04T11:30:00.000Z"
     },
     {
       "index": 4,
-      "title": "Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
-      "ja_title": "週末のおすすめ記事：社会科学の半分は「再現性がない」；「科学の亡霊：論文撤回後の人生」；多感覚学習に関する論文が撤回される",
-      "media": "Retraction Watch",
-      "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
-      "rss_published_at": "2026-04-04T10:00:00.000Z"
+      "title": "Antiracism Pedagogy in Medical Education",
+      "ja_title": "医学教育における反人種差別教育法",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2602091?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-04T11:30:00.000Z"
+    },
+    {
+      "index": 5,
+      "title": "Tailoring Digital Diabetes Care for Culture and Language",
+      "ja_title": "文化と言語に合わせたデジタル糖尿病ケアのカスタマイズ",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516041?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-04T11:30:00.000Z"
     }
   ]
 }
