@@ -1,52 +1,180 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-04-06 11:23:55",
-    "date_jst": "2026-04-06",
-    "item_count": 5,
+    "generated_at": "2026-04-07 11:23:55",
+    "date_jst": "2026-04-07",
+    "item_count": 21,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "Silent Aspiration",
-      "ja_title": "静かな願望",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2516115?af=R&rss=currentIssue",
-      "rss_published_at": "2026-04-04T11:30:00.000Z"
+      "title": "The Creator of the SAT Was an Infamous Eugenicist",
+      "ja_title": "SATの作成者は悪名高い優生学者だった",
+      "media": "Nautilus",
+      "url": "https://nautil.us/the-creator-of-the-sat-was-an-infamous-eugenicist-1279568/",
+      "rss_published_at": "2026-04-06T22:00:00.000Z"
     },
     {
       "index": 2,
-      "title": "From Clinic to Community — The EveryONE Project in Family Medicine",
-      "ja_title": "診療所から地域社会へ ― 家庭医療におけるEveryONEプロジェクト",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2509686?af=R&rss=currentIssue",
-      "rss_published_at": "2026-04-04T11:30:00.000Z"
+      "title": "What Happened to the Ancient Bug Giants of 300 Million Years Ago?",
+      "ja_title": "3億年前の古代の巨大昆虫たちはどうなったのか？",
+      "media": "Nautilus",
+      "url": "https://nautil.us/what-happened-to-the-ancient-bug-giants-of-300-million-years-ago-1279562/",
+      "rss_published_at": "2026-04-06T21:00:00.000Z"
     },
     {
       "index": 3,
-      "title": "Leveraging School Systems as Data Partners to Advance Health Equity",
-      "ja_title": "学校システムをデータパートナーとして活用し、健康格差の解消を推進する",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516497?af=R&rss=currentIssue",
-      "rss_published_at": "2026-04-04T11:30:00.000Z"
+      "title": "Did This 17th-Century Novel Presage the Coming Artemis II Observations?",
+      "ja_title": "この17世紀の小説は、来るべきアルテミスII探査機の観測を予見していたのだろうか？",
+      "media": "Nautilus",
+      "url": "https://nautil.us/did-this-17th-century-novel-presage-the-coming-artemis-ii-observations-1279559/",
+      "rss_published_at": "2026-04-06T20:00:00.000Z"
     },
     {
       "index": 4,
-      "title": "Antiracism Pedagogy in Medical Education",
-      "ja_title": "医学教育における反人種差別教育法",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2602091?af=R&rss=currentIssue",
-      "rss_published_at": "2026-04-04T11:30:00.000Z"
+      "title": "Relics of an ancient sandstorm on Mars point to Earth-like winds",
+      "ja_title": "読み込んでいます...",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-winds",
+      "rss_published_at": "2026-04-06T02:45:00.000Z"
     },
     {
       "index": 5,
-      "title": "Tailoring Digital Diabetes Care for Culture and Language",
-      "ja_title": "文化と言語に合わせたデジタル糖尿病ケアのカスタマイズ",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516041?af=R&rss=currentIssue",
-      "rss_published_at": "2026-04-04T11:30:00.000Z"
+      "title": "Bumblebees Bounce to the Beat",
+      "ja_title": "マルハナバチがリズムに合わせて跳ねる",
+      "media": "Nautilus",
+      "url": "https://nautil.us/bumblebees-bounce-to-the-beat-1279553/",
+      "rss_published_at": "2026-04-06T18:00:00.000Z"
+    },
+    {
+      "index": 6,
+      "title": "As war escalates, Iran’s universities face increasing fire",
+      "ja_title": "戦争が激化するにつれ、イランの大学はますます攻撃にさらされている。",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/war-escalates-iran-s-universities-face-increasing-fire",
+      "rss_published_at": "2026-04-06T01:55:00.000Z"
+    },
+    {
+      "index": 7,
+      "title": "‘Yes, we can’: a blueprint for a clean economy and healthy society",
+      "ja_title": "「イエス、私たちはできる」：クリーン経済と健全な社会のための青写真",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01026-5",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "index": 8,
+      "title": "Why the US needs a unified, mission-based strategy for health innovation",
+      "ja_title": "米国が医療イノベーションのための統一された使命に基づく戦略を必要とする理由",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01027-4",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "index": 9,
+      "title": "Artemis II astronauts fly by the Moon today: follow along with <i>Nature</i> live",
+      "ja_title": "アルテミスIIの宇宙飛行士が本日月面をフライバイします。<i>Nature</i>のライブ配信でその様子をご覧ください。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-00989-9",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "index": 10,
+      "title": "Clinical trials in depression: Integrated collection across EU and US registries",
+      "ja_title": "読み込んでいます...",
+      "media": "PubMed: depression AND SSRI/SNRI",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41938754/",
+      "rss_published_at": "2026-04-06T10:00:00.000Z"
+    },
+    {
+      "index": 11,
+      "title": "Postpartum Depression and the Emerging Mother-Infant Relationship: Associations With Selective Serotonin Reuptake Inhibitor Medication Use",
+      "ja_title": "読み込んでいます...",
+      "media": "PubMed: depression AND SSRI/SNRI",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41938239/",
+      "rss_published_at": "2026-04-06T10:00:00.000Z"
+    },
+    {
+      "index": 12,
+      "title": "Unraveling the Chemical Secrets of a Wholesome Plant-Pollinator Relationship",
+      "ja_title": "健全な植物と受粉媒介者の関係における化学的秘密を解き明かす",
+      "media": "Nautilus",
+      "url": "https://nautil.us/unraveling-the-chemical-secrets-of-a-wholesome-plant-pollinator-relationship-1279549/",
+      "rss_published_at": "2026-04-06T17:00:00.000Z"
+    },
+    {
+      "index": 13,
+      "title": "Isatuximab, carfilzomib, lenalidomide and dexamethasone in newly diagnosed multiple myeloma: a randomized phase 3 trial",
+      "ja_title": "読み込んでいます...",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04282-0",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "index": 14,
+      "title": "An international mega-analysis of psychedelic drug effects on brain circuit function",
+      "ja_title": "幻覚剤が脳回路機能に及ぼす影響に関する国際的な大規模分析",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04287-9",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "index": 15,
+      "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
+      "ja_title": "読み込んでいます...",
+      "media": "QuantaMagazine",
+      "url": "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/",
+      "rss_published_at": "2026-04-06T15:08:33.000Z"
+    },
+    {
+      "index": 16,
+      "title": "Is AI already conscious?",
+      "ja_title": "AIは既に意識を持っているのか？",
+      "media": "aeon",
+      "url": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next?utm_source=rss-feed",
+      "rss_published_at": "2026-04-06T10:01:00.000Z"
+    },
+    {
+      "index": 17,
+      "title": "The antibiotic trap",
+      "ja_title": "抗生物質の罠",
+      "media": "aeon",
+      "url": "https://aeon.co/essays/antibiotic-resistance-in-india-has-consequences-everywhere?utm_source=rss-feed",
+      "rss_published_at": "2026-04-06T10:00:00.000Z"
+    },
+    {
+      "index": 18,
+      "title": "What Goes On Inside a Ripening Banana",
+      "ja_title": "読み込んでいます...",
+      "media": "Nautilus",
+      "url": "https://nautil.us/what-goes-on-inside-a-ripening-banana-1279544/",
+      "rss_published_at": "2026-04-06T14:02:36.000Z"
+    },
+    {
+      "index": 19,
+      "title": "AIs can ‘memorize’ data they shouldn’t. Can they be forced to forget?",
+      "ja_title": "AIは本来記憶すべきでないデータを「記憶」してしまうことがある。AIに記憶を強制的に忘れさせることはできるのだろうか？",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/ais-can-memorize-data-they-shouldn-t-can-they-be-forced-forget",
+      "rss_published_at": "2026-04-06T08:00:00.000Z"
+    },
+    {
+      "index": 20,
+      "title": "Bloodhound code sniffs out copied-and-pasted numerical data",
+      "ja_title": "ブラッドハウンドコードは、コピー＆ペーストされた数値データを嗅ぎ分ける",
+      "media": "Retraction Watch",
+      "url": "https://retractionwatch.com/2026/04/06/data-duplications-errors-open-repositories-markus-englund/",
+      "rss_published_at": "2026-04-06T12:00:00.000Z"
+    },
+    {
+      "index": 21,
+      "title": "Engaging the head and the heart: why scientists turn to poetry",
+      "ja_title": "",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01028-3",
+      "rss_published_at": "2026-04-06T00:00:00.000Z"
     }
   ]
 }
