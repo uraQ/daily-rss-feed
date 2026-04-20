@@ -1,268 +1,68 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-04-19 11:23:55",
-    "date_jst": "2026-04-19",
-    "item_count": 32,
+    "generated_at": "2026-04-20 11:23:55",
+    "date_jst": "2026-04-20",
+    "item_count": 7,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes",
-      "ja_title": "磁気ミューオン測定と遺伝子治療の進歩が、300万米ドルのブレークスルー賞を受賞",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01014-9",
-      "rss_published_at": "2026-04-18T00:00:00.000Z"
+      "title": "Body ownership illusions in immersive virtual reality: implications for musculoskeletal rehabilitation",
+      "ja_title": "没入型仮想現実における身体所有感の錯覚：筋骨格系リハビリテーションへの示唆",
+      "media": "Frontiers in Virtual Reality",
+      "url": "https://www.frontiersin.org/articles/10.3389/frvir.2026.1793021",
+      "rss_published_at": ""
     },
     {
       "index": 2,
-      "title": "Discursive constructions of autism on social media: a multilingual analysis across five languages",
-      "ja_title": "ソーシャルメディアにおける自閉症の言説的構築：5言語にわたる多言語分析",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1769965",
-      "rss_published_at": ""
+      "title": "10 years ago, Elisabeth Bik published a preprint heard around the world",
+      "ja_title": "10年前、エリザベス・ビクは世界中で話題となったプレプリントを発表した。",
+      "media": "Retraction Watch",
+      "url": "https://retractionwatch.com/2026/04/19/elisabeth-bik-scientific-sleuth-image-duplication-mbio-biorxiv-preprint/",
+      "rss_published_at": "2026-04-19T10:00:00.000Z"
     },
     {
       "index": 3,
-      "title": "Weekend reads: An alternative to the impact factor in China; the clinical trials of six ‘superretractors’; Retraction Watch goes to Capitol Hill",
-      "ja_title": "週末のおすすめ記事：中国におけるインパクトファクターの代替案、6種類の「スーパーリトラクター」の臨床試験、リトラクション・ウォッチが連邦議会議事堂へ",
-      "media": "Retraction Watch",
-      "url": "https://retractionwatch.com/2026/04/18/weekend-reads-alternative-impact-factor-china-clinical-trials-superretractors-retraction-watch-goes-to-capitol-hill/",
-      "rss_published_at": "2026-04-18T10:00:00.000Z"
+      "title": "Bronchial Casts from Inhalation of Forest-Fire Smoke",
+      "ja_title": "森林火災の煙の吸入による気管支鋳型",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2518379?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-18T11:30:00.000Z"
     },
     {
       "index": 4,
-      "title": "Beyond Weight Loss: Preserving Muscle in the Era of Incretin Therapy",
-      "ja_title": "減量を超えて：インクレチン療法時代の筋肉維持",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01172?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
+      "title": "Goals of Care and the Importance of Being Polish",
+      "ja_title": "ケアの目標とポーランド人であることの重要性",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2510702?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-18T11:30:00.000Z"
     },
     {
       "index": 5,
-      "title": "Defending Our Consciousness Against the Algorithms",
-      "ja_title": "アルゴリズムから私たちの意識を守る",
-      "media": "Nautilus",
-      "url": "https://nautil.us/defending-our-consciousness-against-the-algorithms-1279260/",
-      "rss_published_at": "2026-04-18T10:00:00.000Z"
+      "title": "Anticompetitive Mergers — Pharmaceutical Buyouts as a Strategy for Maintaining Market Dominance",
+      "ja_title": "反競争的合併 ― 市場支配力を維持するための戦略としての製薬会社の買収",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516842?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-18T11:30:00.000Z"
     },
     {
       "index": 6,
-      "title": "How Lonely Walks in Nature Can Make You Feel Less Alone",
-      "ja_title": "自然の中での孤独な散歩が、孤独感を和らげる方法",
-      "media": "Nautilus",
-      "url": "https://nautil.us/how-lonely-walks-in-nature-can-make-you-feel-less-alone-1279985/",
-      "rss_published_at": "2026-04-17T22:00:00.000Z"
+      "title": "Closing the Evidence Gap for Drugs in Children — Measures to Strengthen the Pediatric Research Equity Act",
+      "ja_title": "小児における医薬品に関するエビデンスのギャップを埋める ― 小児研究公平法を強化するための措置",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2518278?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-18T11:30:00.000Z"
     },
     {
       "index": 7,
-      "title": "Arachnophobes Beware: Tarantulas Are Way Smarter Than You Think",
-      "ja_title": "クモ恐怖症の方はご注意ください：タランチュラはあなたが思っているよりもずっと賢いのです",
-      "media": "Nautilus",
-      "url": "https://nautil.us/arachnophobes-beware-tarantulas-are-way-smarter-than-you-think-1279979/",
-      "rss_published_at": "2026-04-17T21:00:00.000Z"
-    },
-    {
-      "index": 8,
-      "title": "Severe malaria may affect children’s cognitive abilities more than a decade later",
-      "ja_title": "重症マラリアは、10年以上経ってからでも子供の認知能力に影響を与える可能性がある。",
-      "media": "Science News",
-      "url": "https://www.science.org/content/article/severe-malaria-may-affect-children-s-cognitive-abilities-more-decade-later",
-      "rss_published_at": "2026-04-18T07:30:00.000Z"
-    },
-    {
-      "index": 9,
-      "title": "Olfactory responses of the leafminer Liriomyza cicerina (Diptera: Agromyzidae) to chickpea plant volatiles",
-      "ja_title": "ハモグリバエ Liriomyza cicerina (双翅目：ハモグリバエ科) のヒヨコマメ植物揮発性物質に対する嗅覚反応",
-      "media": "Frontiers in Ecology and Evolution",
-      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1806412",
-      "rss_published_at": ""
-    },
-    {
-      "index": 10,
-      "title": "Climate change and non-climatic drivers jointly enhanced the NDVI of alpine grassland in the Source Region of the Yellow River (2000–2022)",
-      "ja_title": "気候変動と非気候的要因が相まって、黄河源流域の高山草原のNDVI（正規化植生指数）が上昇した（2000年～2022年）",
-      "media": "Frontiers in Ecology and Evolution",
-      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1748078",
-      "rss_published_at": ""
-    },
-    {
-      "index": 11,
-      "title": "Effects of physical activity on anxiety phenomenon in vocational college students–chain mediation of self-control and mobile phone dependence",
-      "ja_title": "職業専門学校生の不安現象に対する身体活動の影響―自己制御と携帯電話依存の連鎖的媒介",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1786180",
-      "rss_published_at": ""
-    },
-    {
-      "index": 12,
-      "title": "The relationship between learning organization system on innovation performance: testing moderated mediation role of organizational cultural identification",
-      "ja_title": "学習組織システムとイノベーションパフォーマンスの関係：組織文化アイデンティティの調整媒介役割の検証",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1828291",
-      "rss_published_at": ""
-    },
-    {
-      "index": 13,
-      "title": "Law, neuroscience, and authenticity by design: protecting users’ minds in the digital sphere",
-      "ja_title": "法律、神経科学、そして設計による真正性：デジタル領域におけるユーザーの精神の保護",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1815392",
-      "rss_published_at": ""
-    },
-    {
-      "index": 14,
-      "title": "Good cop, bad cop? How (in-)consistencies in dual leadership shape employee strain and commitment",
-      "ja_title": "良い警官、悪い警官？二重リーダーシップにおける（矛盾）一貫性が従業員のストレスとコミットメントに及ぼす影響",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1638116",
-      "rss_published_at": ""
-    },
-    {
-      "index": 15,
-      "title": "A systematic scoping review of virtual environments and tasks usable for therapist or self-guided assessment and intervention for Social Anxiety in children, adolescents, and adults",
-      "ja_title": "小児、青年、成人における社会不安に対するセラピストまたは自己主導型評価および介入に使用可能な仮想環境およびタスクに関する体系的な概観レビュー",
-      "media": "Frontiers in Virtual Reality",
-      "url": "https://www.frontiersin.org/articles/10.3389/frvir.2026.1787939",
-      "rss_published_at": ""
-    },
-    {
-      "index": 16,
-      "title": "Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition",
-      "ja_title": "インクレチンベースおよび非薬物療法による減量が体組成に及ぼす影響",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-25-00478?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 17,
-      "title": "Summary for Patients: Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition",
-      "ja_title": "患者向け要約：インクレチンベースおよび非薬物療法による減量が体組成に及ぼす影響",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-25-00478-PS?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 18,
-      "title": "Rapid Evaluation of Artificial Intelligence Technology Used for Ambient Dictation in Primary Care: Comparing the Quality of Documentation of Artificial Intelligence–Generated and Human-Produced Clinical Notes",
-      "ja_title": "プライマリケアにおける環境下での音声入力に用いられる人工知能技術の迅速評価：人工知能生成臨床記録と人間作成臨床記録の文書化品質の比較",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-25-02772?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 19,
-      "title": "Screening for Breast Cancer in Asymptomatic, Average-Risk Adult Females: A Guidance Statement From the American College of Physicians (Version 2)",
-      "ja_title": "無症状で平均リスクの成人女性における乳がん検診：米国医師会によるガイダンス声明（第2版）",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-25-05116?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 20,
-      "title": "Redefining Documentation Quality in the Age of Ambient Artificial Intelligence Scribes",
-      "ja_title": "環境型人工知能による文書作成時代における、文書品質の再定義",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-00231?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 21,
-      "title": "Annals Video Summary - Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition",
-      "ja_title": "",
-      "media": "Annals of Internal Medicine",
-      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01092-VS?af=R",
-      "rss_published_at": "2026-04-17T07:00:00.000Z"
-    },
-    {
-      "index": 22,
-      "title": "The influences of perceived green advertising value and motivation types on green purchasing intention",
-      "ja_title": "環境配慮型広告の認知価値と動機タイプが環境配慮型購買意欲に及ぼす影響",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1766561",
-      "rss_published_at": ""
-    },
-    {
-      "index": 23,
-      "title": "The hidden toll of colleague absenteeism: exploring its impact on emotional strain and burnout among frontline health workers in Nigeria",
-      "ja_title": "同僚の欠勤がもたらす隠れた影響：ナイジェリアの最前線で働く医療従事者の精神的ストレスと燃え尽き症候群への影響を探る",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1768286",
-      "rss_published_at": ""
-    },
-    {
-      "index": 24,
-      "title": "Film education and art therapy for mental health in college students: a systematic review",
-      "ja_title": "大学生のメンタルヘルスにおける映画教育と芸術療法：系統的レビュー",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1749029",
-      "rss_published_at": ""
-    },
-    {
-      "index": 25,
-      "title": "Construction of an evaluation index system for user satisfaction with immersive virtual reality exergaming",
-      "ja_title": "没入型仮想現実エクサゲームに対するユーザー満足度評価指標システムの構築",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1811648",
-      "rss_published_at": ""
-    },
-    {
-      "index": 26,
-      "title": "Beyond western paradigms: a cross-cultural review of social–emotional competence frameworks and the promise of AI-driven assessment",
-      "ja_title": "西洋のパラダイムを超えて：社会情緒的能力の枠組みに関する異文化間レビューとAI駆動型評価の可能性",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1763245",
-      "rss_published_at": ""
-    },
-    {
-      "index": 27,
-      "title": "Malaysian undergraduate psychological well-being and academic motivation dataset: a cross-sectional survey on coping mechanisms and student life stress",
-      "ja_title": "マレーシアの大学生の心理的幸福感と学業意欲に関するデータセット：対処メカニズムと学生生活のストレスに関する横断的調査",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1724570",
-      "rss_published_at": ""
-    },
-    {
-      "index": 28,
-      "title": "Editorial: Bridging the gap: physical manifestations and mental health in adolescents",
-      "ja_title": "社説：ギャップを埋める：青年期における身体症状とメンタルヘルス",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1838806",
-      "rss_published_at": ""
-    },
-    {
-      "index": 29,
-      "title": "Music and awe: complex emotions evoked by tonal dissonance",
-      "ja_title": "音楽と畏敬の念：音の不協和音によって引き起こされる複雑な感情",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1767623",
-      "rss_published_at": ""
-    },
-    {
-      "index": 30,
-      "title": "Why do students lose the joy of learning? Evidence from engagement, curiosity, and classroom experience",
-      "ja_title": "学生はなぜ学ぶ喜びを失ってしまうのか？学習意欲、好奇心、そして教室での経験から得られる証拠",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1776932",
-      "rss_published_at": ""
-    },
-    {
-      "index": 31,
-      "title": "It takes time to synchronize: the emergence of dyadic heart-rate synchrony during music therapy in neurorehabilitation",
-      "ja_title": "同期には時間がかかる：神経リハビリテーションにおける音楽療法中の二者間心拍数同期の出現",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1629778",
-      "rss_published_at": ""
-    },
-    {
-      "index": 32,
-      "title": "Evaluating an online self-compassion-based mindfulness course for mothers of autistic children",
-      "ja_title": "自閉症児の母親を対象とした、自己肯定感に基づくオンライン・マインドフルネスコースの評価",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1761742",
-      "rss_published_at": ""
+      "title": "Utah’s Prescription-Renewal Pilot Program — Autonomous AI Managing Patient Care",
+      "ja_title": "ユタ州の処方箋更新パイロットプログラム ― 患者ケアを管理する自律型AI",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2601148?af=R&rss=currentIssue",
+      "rss_published_at": "2026-04-18T11:30:00.000Z"
     }
   ]
 }
