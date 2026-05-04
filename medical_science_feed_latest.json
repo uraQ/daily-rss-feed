@@ -1,92 +1,44 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-05-03 11:23:54",
-    "date_jst": "2026-05-03",
-    "item_count": 10,
+    "generated_at": "2026-05-04 11:23:51",
+    "date_jst": "2026-05-04",
+    "item_count": 4,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "Weekend reads: A retraction for top cancer researcher; paper mill ads paired to IEEE proceedings; about that study on ChatGPT and learning",
-      "ja_title": "週末の読み物：著名な癌研究者の論文撤回、IEEEの会議録に掲載された製紙工場の広告、ChatGPTと学習に関する研究について",
-      "media": "Retraction Watch",
-      "url": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
-      "rss_published_at": "2026-05-02T10:00:00.000Z"
+      "title": "Cerebral Amyloid Angiopathy",
+      "ja_title": "脳アミロイド血管症",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2511044?af=R&rss=currentIssue",
+      "rss_published_at": "2026-05-02T11:30:00.000Z"
     },
     {
       "index": 2,
-      "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
-      "ja_title": "ブリーフィングチャット：ストレスを受けたミトコンドリアが細胞内に新たな「オルガネラ」を生み出す",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01439-2",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
+      "title": "From Mission to Margin in Academic Medicine — The Impact of Corporate Medicine on Medical Training",
+      "ja_title": "学術医療における使命から周縁へ ― 企業医療が医学研修に与える影響",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2415750?af=R&rss=currentIssue",
+      "rss_published_at": "2026-05-02T11:30:00.000Z"
     },
     {
       "index": 3,
-      "title": "The imperfect legacy",
-      "ja_title": "不完全な遺産",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01075-w",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
+      "title": "Medicaid’s GENEROUS Most-Favored-Nation Pricing Model — Promise and Limitations",
+      "ja_title": "メディケイドの寛大な最恵国価格モデル ― 可能性と限界",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2518292?af=R&rss=currentIssue",
+      "rss_published_at": "2026-05-02T11:30:00.000Z"
     },
     {
       "index": 4,
-      "title": "US faculty members report high levels of anxiety",
-      "ja_title": "米国の教員は高いレベルの不安を報告している。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01252-x",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 5,
-      "title": "The exotic particles that could finally break the Standard Model",
-      "ja_title": "ついに標準模型を破る可能性のあるエキゾチック粒子",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01387-x",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 6,
-      "title": "The news is not all bad: five inspiring science stories to lift your mood",
-      "ja_title": "ニュースは悪いものばかりではない：気分を高揚させる感動的な科学ニュース5選",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01290-5",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 7,
-      "title": "European funder must increase capacity to meet the ambition of scientists",
-      "ja_title": "欧州の資金提供機関は、科学者たちの意欲に応えるために能力を増強する必要がある。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01411-0",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 8,
-      "title": "This organoid can menstruate — and shows how tissue can repair itself",
-      "ja_title": "このオルガノイドは月経を起こすことができ、組織が自己修復できる仕組みを示している。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01428-5",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 9,
-      "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
-      "ja_title": "権威ある欧州の科学研究助成機関が、研究者の反発を受け、より厳格な規則を撤回した。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01435-6",
-      "rss_published_at": "2026-05-01T00:00:00.000Z"
-    },
-    {
-      "index": 10,
-      "title": "US lawmakers vote to reject Trump’s massive budget cuts — but call for substantial decreases",
-      "ja_title": "米議員らはトランプ大統領の巨額予算削減案を否決したが、大幅な削減を求めた。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01427-6",
-      "rss_published_at": "2026-04-30T00:00:00.000Z"
+      "title": "Reforming Payment for Clinician-Administered Drugs — Most-Favored-Nation Pricing in Medicare Part B",
+      "ja_title": "臨床医が投与する薬剤の支払い制度改革 ― メディケア・パートBにおける最恵国待遇価格制度",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2600417?af=R&rss=currentIssue",
+      "rss_published_at": "2026-05-02T11:30:00.000Z"
     }
   ]
 }
