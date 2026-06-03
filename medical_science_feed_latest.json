@@ -1,1403 +1,2091 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-06-02 11:24:11",
-    "date_jst": "2026-06-02",
-    "item_count": 174,
+    "generated_at": "2026-06-03 11:24:04",
+    "date_jst": "2026-06-03",
+    "item_count": 260,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "Did a Roman Legionnaire Wear Eyeliner?",
-      "ja_title": "ローマ軍団兵はアイライナーをつけていたのか？",
-      "media": "Nautilus",
-      "url": "https://nautil.us/did-a-roman-legionnaire-wear-eyeliner-1281575/",
-      "rss_published_at": "2026-06-01T23:00:00.000Z"
+      "title": "Massive Duodenal Gastrointestinal Stromal Tumor Hemorrhage in a Patient With Hemophilia A",
+      "ja_title": "血友病A患者における十二指腸消化管間質腫瘍からの大量出血",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1039?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 2,
-      "title": "Desperate to fight Ebola outbreak, Congo weighs using longshot vaccine options",
-      "ja_title": "エボラ出血熱の流行と闘うため、コンゴは可能性の低いワクチンの選択肢を検討している。",
-      "media": "Science News",
-      "url": "https://www.science.org/content/article/desperate-fight-ebola-outbreak-congo-weighs-using-longshot-vaccine-options",
-      "rss_published_at": "2026-06-01T05:45:00.000Z"
+      "title": "Portal, Superior Mesenteric, and Splenic Vein Thrombosis After Tirzepatide Therapy: Triple Threat in Splanchnic Circulation",
+      "ja_title": "チルゼパチド療法後の門脈、上腸間膜静脈、脾静脈血栓症：内臓循環における三重の脅威",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1284?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 3,
-      "title": "Court blocks NSF’s transfer of climate lab’s supercomputing facility",
-      "ja_title": "裁判所がNSFによる気候研究所のスーパーコンピューティング施設の移転を阻止",
-      "media": "Science News",
-      "url": "https://www.science.org/content/article/court-blocks-nsf-s-transfer-climate-lab-s-supercomputing-facility",
-      "rss_published_at": "2026-06-01T05:30:00.000Z"
+      "title": "A Complication of CPAP Therapy: Hydropneumothorax and the Need for Re-evaluating Risk Factors",
+      "ja_title": "CPAP療法の合併症：水気胸とリスク因子の再評価の必要性",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1291?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 4,
-      "title": "See Saturn Like You’ve Never Seen it Before",
-      "ja_title": "これまで見たことのない土星の姿をご覧ください",
-      "media": "Nautilus",
-      "url": "https://nautil.us/see-saturn-like-youve-never-seen-it-before-1281579/",
-      "rss_published_at": "2026-06-01T22:00:00.000Z"
+      "title": "Cardiac Tamponade, Mesenteric Ischemia, and Macrophage Activation Syndrome as the Initial Manifestation of Systemic Lupus Erythematosus: A Case Report",
+      "ja_title": "全身性エリテマトーデスの初期症状として心タンポナーデ、腸間膜虚血、マクロファージ活性化症候群を呈した症例報告",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1316?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 5,
-      "title": "Exclusive: HHS is now weighing in on science in NIH grants",
-      "ja_title": "独占情報：米国保健福祉省（HHS）が国立衛生研究所（NIH）の助成金における科学的根拠について見解を示す",
-      "media": "Science News",
-      "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-      "rss_published_at": "2026-06-01T05:05:00.000Z"
+      "title": "Breathless on Standing: Hepatopulmonary Syndrome in Chronic Liver Disease",
+      "ja_title": "起立時に息切れする：慢性肝疾患における肝肺症候群",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1421?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 6,
-      "title": "Why we crave company",
-      "ja_title": "なぜ私たちは仲間を求めるのか",
-      "media": "Knowable Magazine",
-      "url": "https://knowablemagazine.org/content/article/mind/2026/why-we-crave-social-interaction",
-      "rss_published_at": "2026-06-01T00:00:01.000Z"
+      "title": "Nutcracker Syndrome in an Adult With Recurrent Gross Hematuria Successfully Managed With Conservative Therapy",
+      "ja_title": "成人における再発性肉眼的血尿を伴うナットクラッカー症候群：保存的治療により良好な経過をたどった症例",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2026.0004?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 7,
-      "title": "Judge Blocks NSF From Dismantling NCAR",
-      "ja_title": "裁判官がNSFによるNCARの解体を阻止",
-      "media": "Eos",
-      "url": "https://eos.org/research-and-developments/judge-blocks-nsf-from-dismantling-ncar",
-      "rss_published_at": "2026-06-01T21:09:49.000Z"
+      "title": "Kikuchi-Fujimoto Disease as an Etiology for Relapsing/Remitting Fevers and Lymphadenopathy in a Patient With Dermatomyositis",
+      "ja_title": "皮膚筋炎患者における再発寛解型発熱およびリンパ節腫脹の原因としての菊池・藤本病",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2026.0103?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 8,
-      "title": "Landmark cancer trial shows success against ‘undruggable’ cancer — raising hopes for future treatments",
-      "ja_title": "画期的ながん臨床試験で「治療不可能」とされていたがんに対する治療効果が実証され、将来の治療法への期待が高まる",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01760-w",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Diffuse Lower Extremity Hyperpigmentation After Long-Term Minocycline Therapy",
+      "ja_title": "長期ミノサイクリン療法後の下肢びまん性色素沈着",
+      "media": "Annals of Internal Medicine Clinical Cases",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/aimcc.2025.1306?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 9,
-      "title": "SEZ6-targeting antibody−drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial",
-      "ja_title": "進行性小細胞肺癌および固形腫瘍におけるSEZ6標的抗体薬物複合体ABBV-706：第1相臨床試験",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04452-0",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "How Animals Pick and Choose the Sex of Their Offspring",
+      "ja_title": "動物はどのようにして子孫の性別を選ぶのか",
+      "media": "Nautilus",
+      "url": "https://nautil.us/how-animals-pick-and-choose-the-sex-of-their-offspring-1281636/",
+      "rss_published_at": "2026-06-02T22:00:00.000Z"
     },
     {
       "index": 10,
-      "title": "How the “Perfectionism Pandemic” Is Crushing Young People",
-      "ja_title": "「完璧主義のパンデミック」が若者たちをいかに苦しめているか",
+      "title": "This Non-Movie-Star Shark Is Feeding Close to Shore",
+      "ja_title": "映画スターではないこのサメは、海岸近くで餌を食べている。",
       "media": "Nautilus",
-      "url": "https://nautil.us/how-the-perfectionism-pandemic-is-crushing-young-people-1281569/",
-      "rss_published_at": "2026-06-01T21:00:00.000Z"
+      "url": "https://nautil.us/this-non-movie-star-shark-is-feeding-close-to-shore-1281628/",
+      "rss_published_at": "2026-06-02T21:00:03.000Z"
     },
     {
       "index": 11,
-      "title": "What Happened When the First Animals Started to Move",
-      "ja_title": "最初の動物たちが動き始めたとき、何が起こったのか",
-      "media": "Nautilus",
-      "url": "https://nautil.us/what-happened-when-the-first-animals-started-to-move-1281562/",
-      "rss_published_at": "2026-06-01T20:00:00.000Z"
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "ja_title": "人工知能が急速に勢力を拡大する中、数学者たちが警告を発する",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "rss_published_at": "2026-06-02T04:55:00.000Z"
     },
     {
       "index": 12,
-      "title": "Feynmann's solved ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics",
-      "ja_title": "ファインマンは50年前に「レストランのジレンマ」を解決していた――そして今、ある研究が彼の数学的手法を裏付けている。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-00821-4",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Compartment-specific oxidative stress signatures in oral leukoplakia: a systematic review of local and systemic biomarkers",
+      "ja_title": "口腔白板症における部位特異的な酸化ストレスシグネチャー：局所および全身性バイオマーカーの系統的レビュー",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1851447",
+      "rss_published_at": ""
     },
     {
       "index": 13,
-      "title": "Savolitinib in <i>MET</i>-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial",
-      "ja_title": "MET遺伝子増幅を伴う胃腺癌または胃食道接合部腺癌に対するサボリチニブ：第2相試験",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04459-7",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Case Report: Atypical (CD34-) nevus lipomatosus cutaneous superficialis with fibroblastic nodular hyperplasia on the knee",
+      "ja_title": "症例報告：膝に線維芽細胞性結節性過形成を伴う非定型（CD34陰性）表在性脂肪母斑",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1805076",
+      "rss_published_at": ""
     },
     {
       "index": 14,
-      "title": "After the Black Death, Italy’s Oak Trees Came Back",
-      "ja_title": "黒死病の後、イタリアの樫の木は復活した",
-      "media": "Nautilus",
-      "url": "https://nautil.us/after-the-black-death-italys-oak-trees-came-back-1281556/",
-      "rss_published_at": "2026-06-01T19:02:00.000Z"
+      "title": "Phase-dependent reorganization of circulating miRNA networks following short maximal exercise",
+      "ja_title": "短時間の最大運動後の循環miRNAネットワークの位相依存的な再編成",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1852791",
+      "rss_published_at": ""
     },
     {
       "index": 15,
-      "title": "Predictive analytics to direct clinical attention to complex patients with elevated suicide risk: enhancement of the Veterans Health Administration REACH VET model",
-      "ja_title": "自殺リスクの高い複雑な患者への臨床的注意を促すための予測分析：退役軍人保健局REACH VETモデルの強化",
-      "media": "BMJ Mental Health",
-      "url": "http://mentalhealth.bmj.com/cgi/content/short/29/1/e302338?rss=1",
-      "rss_published_at": "2026-06-01T11:46:24.000Z"
+      "title": "Chemicals meant to be eco-friendly accumulate aloft",
+      "ja_title": "環境に優しいはずの化学物質が上空に蓄積する",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01763-7",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 16,
-      "title": "Reducing the therapeutic vacuum: a qualitative study learning from experiences of care delivery during terror attacks in the UK over the past 20 years",
-      "ja_title": "治療的空白の解消：過去20年間の英国におけるテロ攻撃時のケア提供経験から学ぶ質的研究",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e108881?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Beavers Don’t Just Build Dams, They Build Nations",
+      "ja_title": "ビーバーはダムを作るだけでなく、国家も築くのだ",
+      "media": "Nautilus",
+      "url": "https://nautil.us/beavers-dont-just-build-dams-they-build-nations-1281617/",
+      "rss_published_at": "2026-06-02T20:06:35.000Z"
     },
     {
       "index": 17,
-      "title": "Unequal harvests: AI-assisted evidence map of trends and gaps in global farmer health research along SDG 3 priorities",
-      "ja_title": "不平等な収穫：SDG 3の優先事項に沿った世界の農家の健康研究における傾向とギャップを示すAI支援エビデンスマップ",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e110537?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Inventing “Machismo” in the US",
+      "ja_title": "アメリカにおける「マッチョイズム」の発明",
+      "media": "JSTOR Daily",
+      "url": "https://daily.jstor.org/inventing-machismo-in-the-us/",
+      "rss_published_at": "2026-06-02T13:45:39.000Z"
     },
     {
       "index": 18,
-      "title": "HOTFy: randomised clinical trial for hyperbaric oxygen therapy in fibromyalgia",
-      "ja_title": "HOTFy：線維筋痛症に対する高気圧酸素療法の無作為化臨床試験",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e112284?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "A Unique African Volcano Could Solve a Mystery on Mercury",
+      "ja_title": "アフリカの特異な火山が水星の謎を解明する可能性",
+      "media": "Eos",
+      "url": "https://eos.org/articles/a-unique-african-volcano-could-solve-a-mystery-on-mercury",
+      "rss_published_at": "2026-06-02T12:40:42.000Z"
     },
     {
       "index": 19,
-      "title": "How and why digital information interventions support patients and carers during hospital-to-home transitions: a protocol for a realist systematic review",
-      "ja_title": "デジタル情報介入が、入院から在宅への移行期における患者と介護者をどのように、そしてなぜ支援するのか：リアリストシステマティックレビューのプロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e112464?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Rivers in the Antarctic Sky, Captured in 3D",
+      "ja_title": "南極の空に浮かぶ川、3Dで捉えた映像",
+      "media": "Eos",
+      "url": "https://eos.org/research-spotlights/rivers-in-the-antarctic-sky-captured-in-3d",
+      "rss_published_at": "2026-06-02T12:38:35.000Z"
     },
     {
       "index": 20,
-      "title": "High-flow nasal oxygen versus nasopharyngeal oxygen insufflation during upper aerodigestive tract endoscopy: protocol for a multicentre randomised controlled non-inferiority trial (OPTIGO)",
-      "ja_title": "上部消化管内視鏡検査における高流量鼻腔酸素投与と鼻咽頭酸素投与の比較：多施設共同無作為化比較非劣性試験（OPTIGO）のプロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e112540?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Pre-Existing Structure and Stress Shape Geothermal-Induced Seismicity",
+      "ja_title": "既存構造と応力が地熱誘発地震活動を形成する",
+      "media": "Eos",
+      "url": "https://eos.org/editor-highlights/pre-existing-structure-and-stress-shape-geothermal-induced-seismicity",
+      "rss_published_at": "2026-06-02T12:00:00.000Z"
     },
     {
       "index": 21,
-      "title": "WeCare intervention to improve breast cancer screening and research preparedness in rural and low-socioeconomic women: study protocol for a community-engaged feasibility trial",
-      "ja_title": "農村部および低所得層の女性における乳がん検診と研究への準備を改善するためのWeCare介入：地域参加型実現可能性試験の試験プロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e113154?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Bang! Exploding immune cells splatter potent toxins everywhere",
+      "ja_title": "ドーン！免疫細胞が爆発し、強力な毒素が辺り一面に飛び散る。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01766-4",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 22,
-      "title": "Impact of the COVID-19 pandemic on obesity: a prospective cohort study of the Canadian Longitudinal Study on Aging (CLSA)",
-      "ja_title": "COVID-19パンデミックが肥満に及ぼす影響：カナダ高齢者縦断研究（CLSA）の前向きコホート研究",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e116378?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "First and last authors more likely to be men in leading science journals",
+      "ja_title": "主要な科学誌では、筆頭著者と最終著者は男性である可能性が高い。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01495-8",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 23,
-      "title": "Impacts of epic MyChart and healthy planet on clinical care measures: a scoping review protocol",
-      "ja_title": "Epic MyChartとHealthy Planetが臨床ケア指標に与える影響：スコーピングレビュープロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e117420?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Pharmacovigilance of SSRIs in Children and Adolescents with Depression: Disproportionality Analysis of Serotonin Adverse Events Using the FAERS Database",
+      "ja_title": "小児および青年期のうつ病患者におけるSSRIのファーマコビジランス：FAERSデータベースを用いたセロトニン関連有害事象の不均衡分析",
+      "media": "PubMed: depression AND SSRI/SNRI",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227535/",
+      "rss_published_at": "2026-06-02T10:00:00.000Z"
     },
     {
       "index": 24,
-      "title": "The benefits and costs of domiciliary care: a study protocol for evaluating the cost-effectiveness of domiciliary care in England",
-      "ja_title": "在宅介護のメリットとコスト：イングランドにおける在宅介護の費用対効果を評価するための研究プロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e117555?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "In This Issue",
+      "ja_title": "今号の内容",
+      "media": "PNAS",
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti2226123?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 25,
-      "title": "Community-based social connection intervention programme to improve cardiovascular and brain health in older adults in rural Ecuador: study protocol for a quasi-experimental trial",
-      "ja_title": "エクアドルの農村部における高齢者の心血管および脳の健康を改善するための地域密着型社会交流介入プログラム：準実験的試験の試験プロトコル",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e118544?rss=1",
-      "rss_published_at": "2026-06-01T11:47:48.000Z"
+      "title": "Tadpoles Use a World War I Naval Strategy to Dazzle Predators",
+      "ja_title": "オタマジャクシが第一次世界大戦の海軍戦略を使って捕食者を欺く",
+      "media": "Nautilus",
+      "url": "https://nautil.us/tadpoles-use-a-world-war-i-naval-strategy-to-dazzle-predators-1281610/",
+      "rss_published_at": "2026-06-02T19:00:00.000Z"
     },
     {
       "index": 26,
-      "title": "Status of womens empowerment and its associated factors using multidimensional empowerment index in Tigray, Ethiopia: a community-based cross-sectional study",
-      "ja_title": "エチオピア、ティグレ州における女性のエンパワーメントの現状と、多次元エンパワーメント指標を用いた関連要因：地域ベースの横断研究",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e100756?rss=1",
-      "rss_published_at": "2026-06-01T11:47:47.000Z"
+      "title": "National Prevalence of Clinical Obesity by BMI Class: A National Cross-Sectional Study",
+      "ja_title": "BMI分類別臨床的肥満の全国有病率：全国横断研究",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-25-05287?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 27,
-      "title": "Hypertension and altitude in community-dwelling older adults: an epidemiological study in northwest China",
-      "ja_title": "地域在住高齢者における高血圧と標高：中国北西部における疫学研究",
-      "media": "BMJ Open",
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e102957?rss=1",
-      "rss_published_at": "2026-06-01T11:47:47.000Z"
+      "title": "The Deskilling Effect: Is Artificial Intelligence Eroding Clinical Competence?",
+      "ja_title": "スキル低下効果：人工知能は臨床能力を蝕んでいるのか？",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-00613?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 28,
-      "title": "Editing the Pesky Bones Out of a Popular Farmed Fish",
-      "ja_title": "人気の養殖魚から厄介な骨を取り除く",
-      "media": "Nautilus",
-      "url": "https://nautil.us/editing-the-pesky-bones-out-of-a-popular-farmed-fish-1281553/",
-      "rss_published_at": "2026-06-01T16:30:00.000Z"
+      "title": "Prior Authorization and Clinical Authority: Time to Recalibrate?",
+      "ja_title": "事前承認と臨床権限：見直しの時期か？",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-00918?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 29,
-      "title": "Psychotic Features in Unipolar and Bipolar Depression: Commentary",
-      "ja_title": "単極性うつ病および双極性うつ病における精神病症状：解説",
-      "media": "Acta Psychiatrica Scandinavica",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/acps.70111?af=R",
-      "rss_published_at": "2026-06-01T00:04:10.000Z"
+      "title": "The Sieve of Asclepius: A History of Navigating the Medical Literature, From Index to Algorithm",
+      "ja_title": "アスクレピオスの篩：医学文献をナビゲートする歴史 ― 索引からアルゴリズムまで",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-00931?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 30,
-      "title": "Interdisciplinary, Delphi-driven consensus guidelines on the use of intravenous ketamine infusions for depressive disorders from the American Society of Ketamine Physicians, Psychotherapists, and Practitioners (ASKP3)",
-      "ja_title": "米国ケタミン医師・心理療法士・実践者協会（ASKP3）による、うつ病に対する静脈内ケタミン点滴療法の使用に関する学際的かつデルファイ法に基づく合意ガイドライン",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008220?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "In uncontrolled asthma, adding glycopyrronium to budesonide–formoterol reduced annualized severe exacerbations",
+      "ja_title": "コントロール不良の喘息において、ブデソニド・ホルモテロールにグリコピロニウムを追加することで、年間重症増悪回数が減少した。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01482-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 31,
-      "title": "Editorial Board",
-      "ja_title": "編集委員会",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008918?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "In basilar artery occlusion, tenecteplase within 24 h of symptom onset improved functional outcome vs. usual care at 90 d",
+      "ja_title": "脳底動脈閉塞症において、症状発現後24時間以内にテネクテプラーゼを投与すると、90日後の機能的転帰が通常治療と比較して改善した。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01704-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 32,
-      "title": "Depression polygenic risk-linked multimodal MRI network and associated cognitive dysfunction",
-      "ja_title": "うつ病の多遺伝子リスクに関連するマルチモーダルMRIネットワークと関連する認知機能障害",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009134?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "In adults with predisposing conditions, diagnostic accuracy of RCE components for detecting volume overload varies",
+      "ja_title": "素因のある成人では、体液過剰を検出するためのRCEコンポーネントの診断精度は様々である。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01706-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 33,
-      "title": "How National Geographic Conquered American Culture",
-      "ja_title": "ナショナルジオグラフィックはいかにしてアメリカ文化を征服したか",
-      "media": "JSTOR Daily",
-      "url": "https://daily.jstor.org/how-national-geographic-conquered-american-culture/",
-      "rss_published_at": "2026-06-01T13:55:18.000Z"
+      "title": "In overweight or obesity, intermittent fasting does not differ from dietary advice but increases weight loss vs. no intervention",
+      "ja_title": "過体重または肥満の場合、断続的断食は食事指導と違いはないが、介入しない場合と比較して体重減少を促進する。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01779-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 34,
-      "title": "LGBTQIA+ Pride Month",
-      "ja_title": "LGBTQIA+プライド月間",
-      "media": "JSTOR Daily",
-      "url": "https://daily.jstor.org/lgbtq-pride-month-editors-picks/",
-      "rss_published_at": "2026-06-01T13:33:33.000Z"
+      "title": "In T2D inadequately controlled with metformin, orforglipron reduced HbA1c more than oral semaglutide at 52 wk",
+      "ja_title": "メトホルミンで十分にコントロールされていない2型糖尿病患者において、オルフォルグリプロンは52週時点で経口セマグルチドよりもHbA1c値を低下させた。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01781-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 35,
-      "title": "White House Proposes Sweeping Changes to Grantmaking Process",
-      "ja_title": "ホワイトハウス、助成金交付プロセスに抜本的な変更案を提示",
-      "media": "Eos",
-      "url": "https://eos.org/research-and-developments/white-house-proposes-sweeping-changes-to-grantmaking-process",
-      "rss_published_at": "2026-06-01T17:54:22.000Z"
+      "title": "Statin therapy increased risk for 4 of 66 adverse outcomes listed in product labels compared with placebo at a median 4.5 y",
+      "ja_title": "スタチン療法は、プラセボと比較して、製品ラベルに記載されている66の有害事象のうち4つのリスクを中央値4.5年の時点で増加させた。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01782-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 36,
-      "title": "Model of Complex Blanket Bog Improves Prediction of Peat Expansion",
-      "ja_title": "複雑な高層湿原のモデルにより、泥炭地拡大の予測精度が向上する",
-      "media": "Eos",
-      "url": "https://eos.org/editor-highlights/model-of-complex-blanket-bog-improves-prediction-of-peat-expansion",
-      "rss_published_at": "2026-06-01T14:11:32.000Z"
+      "title": "In adults with acute VTE, apixaban vs. rivaroxaban reduced clinically relevant bleeding at 3 mo",
+      "ja_title": "急性静脈血栓塞栓症の成人患者において、アピキサバンはリバーロキサバンと比較して、3か月後の臨床的に重要な出血を減少させた。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01793-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 37,
-      "title": "An Off-Road Itinerary",
-      "ja_title": "オフロードの旅程",
-      "media": "Eos",
-      "url": "https://eos.org/agu-news/an-off-road-itinerary",
-      "rss_published_at": "2026-06-01T13:17:24.000Z"
+      "title": "P2Y12 inhibitor monotherapy vs. DAPT soon after PCI for ACS increased a composite of death or ischemic events at 30 d but not at 1 y",
+      "ja_title": "ACSに対するPCI直後のP2Y12阻害薬単剤療法とDAPT療法を比較すると、30日後の死亡または虚血性イベントの複合エンドポイントは増加したが、1年後には増加しなかった。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01854-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 38,
-      "title": "The Surprising Link Between a Cold Blob and the Indian Monsoon",
-      "ja_title": "寒冷な海域とインドのモンスーンとの驚くべき関連性",
-      "media": "Eos",
-      "url": "https://eos.org/research-spotlights/the-surprising-link-between-a-cold-blob-and-the-indian-monsoon",
-      "rss_published_at": "2026-06-01T13:17:00.000Z"
+      "title": "In outpatients with COVID-19 during Omicron variant circulation, some antivirals reduce time to recovery",
+      "ja_title": "オミクロン変異株流行期のCOVID-19外来患者において、一部の抗ウイルス薬は回復までの時間を短縮する。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01878-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 39,
-      "title": "The 50-Hour Livestream That Aims to #SaveAmericasForecasts",
-      "ja_title": "#アメリカの天気予報を救おう を目指す50時間のライブ配信",
-      "media": "Eos",
-      "url": "https://eos.org/research-and-developments/the-50-hour-livestream-that-aims-to-saveamericasforecasts",
-      "rss_published_at": "2026-06-01T12:08:42.000Z"
+      "title": "In patients with SVT, device-assisted vs. standard Valsalva maneuver increased immediate cardioversion success rates",
+      "ja_title": "SVT患者において、デバイス補助によるバルサルバ法は、標準的なバルサルバ法と比較して、即時除細動の成功率を高めた。",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-01928-JC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 40,
-      "title": "The Editorial Board Marks the Latest Chapter in AGU Books",
-      "ja_title": "編集委員会がAGU書籍の最新章を飾る",
-      "media": "Eos",
-      "url": "https://eos.org/editors-vox/the-editorial-board-marks-the-latest-chapter-in-agu-books",
-      "rss_published_at": "2026-06-01T12:00:00.000Z"
+      "title": "Sleep medicine for seniors",
+      "ja_title": "高齢者向け睡眠薬",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-02318-IM?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 41,
-      "title": "Case Report: A novel variant in fibrillin-2 identified in a congenital contractural arachnodactyly family with phenotypic heterogeneity",
-      "ja_title": "症例報告：表現型の多様性を示す先天性拘縮性クモ指症の家族において同定されたフィブリリン-2の新規変異",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1828971",
-      "rss_published_at": ""
+      "title": "Annals On Call - Who Should Receive the RSV Vaccine?",
+      "ja_title": "Annals On Call - RSVワクチンは誰が接種すべきか？",
+      "media": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/abs/10.7326/ANNALS-26-02379-OC?af=R",
+      "rss_published_at": "2026-06-02T07:00:00.000Z"
     },
     {
       "index": 42,
-      "title": "Development and validation of a CT-based body composition model for predicting adverse outcomes in small bowel obstruction",
-      "ja_title": "小腸閉塞における有害転帰を予測するためのCT画像に基づく体組成モデルの開発と検証",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1807639",
-      "rss_published_at": ""
+      "title": "See the Gravity Waves from a Super Typhoon",
+      "ja_title": "超大型台風による重力波をご覧ください",
+      "media": "Nautilus",
+      "url": "https://nautil.us/see-the-gravity-waves-from-a-super-typhoon-1281601/",
+      "rss_published_at": "2026-06-02T16:00:00.000Z"
     },
     {
       "index": 43,
-      "title": "Risk factors for postoperative adverse outcomes in patients with high anal fistula undergoing modified TROPIS procedure combined with Parks’ fistulotomy with seton: a retrospective study",
-      "ja_title": "高位肛門瘻患者に対する改良型TROPIS手術とParks瘻切開術（セトン留置術併用）の術後有害事象のリスク因子：後向き研究",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1834676",
-      "rss_published_at": ""
+      "title": "9 Books We’re Excited About This June",
+      "ja_title": "6月に発売される注目の書籍9選",
+      "media": "Nautilus",
+      "url": "https://nautil.us/9-books-were-excited-about-this-june-1281567/",
+      "rss_published_at": "2026-06-02T14:00:00.000Z"
     },
     {
       "index": 44,
-      "title": "Diagnosis and treatment of neurofibromatosis type 1 with malignant transformation and multiple gastrointestinal stromal tumors: a case report and literature review",
-      "ja_title": "神経線維腫症1型における悪性転化および多発性消化管間質腫瘍の診断と治療：症例報告と文献レビュー",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1866075",
-      "rss_published_at": ""
+      "title": "Doubling down on controversial claims, Microsoft accelerates quantum computing plans",
+      "ja_title": "物議を醸す主張をさらに強め、マイクロソフトは量子コンピューティング計画を加速させる",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "rss_published_at": "2026-06-02T02:15:32.000Z"
     },
     {
       "index": 45,
-      "title": "Efficacy and safety of Shufeng Huashi formula for post-infectious cough: study protocol for a randomized control trial",
-      "ja_title": "感染後咳嗽に対する舒風化石方剤の有効性と安全性：無作為化比較試験の試験プロトコル",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1821956",
-      "rss_published_at": ""
+      "title": "How Europe hopes to lure foreign researchers with massive new grants",
+      "ja_title": "欧州は巨額の新たな助成金で外国人研究者を誘致しようとしている",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/how-europe-hopes-lure-foreign-researchers-massive-new-grants",
+      "rss_published_at": "2026-06-02T01:20:00.000Z"
     },
     {
       "index": 46,
-      "title": "Advances in AI-based diagnosis of Alzheimer’s disease using MRI: a comprehensive survey",
-      "ja_title": "MRIを用いたAIベースのアルツハイマー病診断における進歩：包括的な調査",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1767090",
-      "rss_published_at": ""
+      "title": "Radical proposal would block solar storms with orbital ‘airbag’",
+      "ja_title": "軌道上の「エアバッグ」で太陽嵐を遮断するという過激な提案",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/radical-proposal-would-block-solar-storms-orbital-airbag",
+      "rss_published_at": "2026-06-02T09:00:00.000Z"
     },
     {
       "index": 47,
-      "title": "Gut microbiota profiling for risk stratification of surgical intervention in preterm infants with necrotizing enterocolitis: a retrospective cohort study",
-      "ja_title": "壊死性腸炎を患う早産児における外科的介入のリスク層別化のための腸内細菌叢プロファイリング：後向きコホート研究",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1827128",
-      "rss_published_at": ""
+      "title": "Exclusive: NSF watchdog unit is no longer investigating research misconduct",
+      "ja_title": "独占情報：NSFの監視部門は研究不正行為の調査を中止した",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/exclusive-nsf-watchdog-unit-no-longer-investigating-research-misconduct",
+      "rss_published_at": "2026-06-02T08:00:00.000Z"
     },
     {
       "index": 48,
-      "title": "Ultraviolet radiation as a double-edged regulator of melanocyte function in vitiligo therapy and melanoma carcinogenesis",
-      "ja_title": "白斑治療および黒色腫発癌におけるメラノサイト機能の二面性調節因子としての紫外線",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1823921",
-      "rss_published_at": ""
+      "title": "Brain mapping effort searches for roots of Parkinson’s and other diseases",
+      "ja_title": "脳マッピング研究により、パーキンソン病やその他の疾患の根本原因を探る",
+      "media": "Science News",
+      "url": "https://www.science.org/content/article/brain-mapping-effort-searches-roots-parkinson-s-and-other-diseases",
+      "rss_published_at": "2026-06-02T05:00:00.000Z"
     },
     {
       "index": 49,
-      "title": "A systematic review of semaglutide-associated kidney injury case reports",
-      "ja_title": "セマグルチド関連腎障害症例報告の系統的レビュー",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1793349",
-      "rss_published_at": ""
+      "title": "Sex-specific regulation of angiogenin in Alzheimer’s disease",
+      "ja_title": "アルツハイマー病におけるアンジオゲニンの性差特異的調節",
+      "media": "Molecular Psychiatry",
+      "url": "https://www.nature.com/articles/s41380-026-03656-7",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 50,
-      "title": "Prevalence of frailty in hemodialysis patients and its impact on long-term survival in elderly hemodialysis patients",
-      "ja_title": "血液透析患者における虚弱の有病率と高齢血液透析患者の長期生存への影響",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1857811",
-      "rss_published_at": ""
+      "title": "Genetics of major depressive disorder in a homogeneous population with uniform phenotyping",
+      "ja_title": "均一な表現型を持つ均質な集団における大うつ病性障害の遺伝学",
+      "media": "Molecular Psychiatry",
+      "url": "https://www.nature.com/articles/s41380-026-03666-5",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 51,
-      "title": "The efficacy and safety of iguratimod treatment in stable systemic lupus erythematosus: a preliminary prospective cohort study",
-      "ja_title": "安定期全身性エリテマトーデスにおけるイグラチモド治療の有効性と安全性：予備的な前向きコホート研究",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1810291",
-      "rss_published_at": ""
+      "title": "Reduced BCL2 level in astrocytes contributes to blood-brain barrier disruption in the striatum of offspring exposed to maternal preeclampsia",
+      "ja_title": "アストロサイトにおけるBCL2レベルの低下は、母体妊娠高血圧症に曝露された子孫の線条体における血液脳関門の破壊に寄与する。",
+      "media": "Molecular Psychiatry",
+      "url": "https://www.nature.com/articles/s41380-026-03669-2",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 52,
-      "title": "Evidence-based summary of optimal home self-management for elderly ostomy patients",
-      "ja_title": "高齢のストーマ患者に対する最適な在宅自己管理に関するエビデンスに基づいた要約",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1807235",
-      "rss_published_at": ""
+      "title": "Repetitive Transcranial Magnetic Stimulation (rTMS) for Adolescent Depression: A Systematic Review and Meta‐Analysis of Treatment Response and Suicidal Ideation Reduction",
+      "ja_title": "青年期うつ病に対する反復経頭蓋磁気刺激（rTMS）：治療反応と自殺念慮軽減に関する系統的レビューとメタ分析",
+      "media": "Acta Psychiatrica Scandinavica",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/acps.70110?af=R",
+      "rss_published_at": "2026-06-01T11:19:07.000Z"
     },
     {
       "index": 53,
-      "title": "Longitudinal changes in nutritional status during induction chemotherapy and their association with treatment outcomes in pediatric patients with newly diagnosed acute myeloid leukemia",
-      "ja_title": "急性骨髄性白血病と新たに診断された小児患者における導入化学療法中の栄養状態の経時的変化と治療成績との関連性",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1839597",
+      "title": "When love harms: Longitudinal effects of harsh parenting on adolescents' depressive symptoms and reactive-proactive aggression",
+      "ja_title": "愛が害を及ぼすとき：厳しい子育てが思春期の子どもの抑うつ症状と反応性・積極性攻撃性に及ぼす長期的な影響",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009171?dgcid=rss_sd_all",
       "rss_published_at": ""
     },
     {
       "index": 54,
-      "title": "Comparing manual vs. automated machine learning and deep learning models for predicting one-year mortality in elderly hip fracture patients",
-      "ja_title": "高齢股関節骨折患者の1年死亡率予測における、手動機械学習モデルと自動機械学習モデルおよび深層学習モデルの比較",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1804645",
+      "title": "Differential cerebral white matter tract alterations in generalized anxiety disorder revealed by ultra-high-field 7 T diffusion-weighted imaging",
+      "ja_title": "超高磁場7T拡散強調画像法によって明らかになった全般性不安障害における脳白質路の差異",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008414?dgcid=rss_sd_all",
       "rss_published_at": ""
     },
     {
       "index": 55,
-      "title": "Case Report: A rare triad of neoplasms: navigating synchronous accessory breast cancer, papillary thyroid carcinoma, and inflammatory nasal papilloma",
-      "ja_title": "症例報告：稀な三重腫瘍：同時発生した副乳癌、乳頭状甲状腺癌、および炎症性鼻乳頭腫の治療",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1841765",
+      "title": "The long-term psychological and sleep-related consequences of the Halabja chemical attack: A cross-sectional and cross-generational study over three generations",
+      "ja_title": "ハラブジャ化学兵器攻撃の長期的な心理的および睡眠関連の影響：3世代にわたる横断的・世代間研究",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008608?dgcid=rss_sd_all",
       "rss_published_at": ""
     },
     {
       "index": 56,
-      "title": "Safety evaluation of subcutaneous and intravenous administration of infliximab: a real-world study based on the FAERS database",
-      "ja_title": "インフリキシマブの皮下投与および静脈内投与の安全性評価：FAERSデータベースに基づく実臨床研究",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1834815",
+      "title": "Smartphone-delivered cognitive behavioral therapy for subthreshold depression with physical comorbidities: Evidence from the RESiLIENT trial",
+      "ja_title": "身体合併症を伴う軽度うつ病に対するスマートフォンを用いた認知行動療法：RESiLIENT試験からのエビデンス",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008062?dgcid=rss_sd_all",
       "rss_published_at": ""
     },
     {
       "index": 57,
-      "title": "An explainable machine learning model for prognosis prediction in sudden sensorineural hearing loss under integrated therapy",
-      "ja_title": "統合療法における突発性難聴の予後予測のための説明可能な機械学習モデル",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1845137",
+      "title": "Antidepressant retention and adherence among Latinx outpatients with major depressive disorder: The effect of a novel motivational interviewing-consistent approach to pharmacotherapy",
+      "ja_title": "大うつ病性障害のラテン系外来患者における抗うつ薬の継続服用と服薬遵守：薬物療法への新しい動機づけ面接法に基づくアプローチの効果",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726003411?dgcid=rss_sd_all",
       "rss_published_at": ""
     },
     {
       "index": 58,
-      "title": "A methodological review of acupuncture for chronic atrophic gastritis: toward a core outcome set",
-      "ja_title": "慢性萎縮性胃炎に対する鍼治療の方法論的レビュー：コアアウトカムセットに向けて",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1818918",
+      "title": "Prevalence and longitudinal development of sarcopenic obesity in an Asian obese population: a large bioelectrical impedance analysis study",
+      "ja_title": "アジア人肥満集団におけるサルコペニア性肥満の有病率と長期的な変化：大規模な生体電気インピーダンス分析研究",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1828960",
       "rss_published_at": ""
     },
     {
       "index": 59,
-      "title": "High-fidelity simulation in airway management training: results from the AIR-MASTER-SIM randomised study",
-      "ja_title": "気道管理トレーニングにおける高忠実度シミュレーション：AIR-MASTER-SIM無作為化試験の結果",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1829702",
+      "title": "Comparing food literacy by grade, sex, and food education exposure: construct validation of the food literacy BITE scale",
+      "ja_title": "学年、性別、食育経験による食に関するリテラシーの比較：食に関するリテラシー尺度BITEの構成概念妥当性検証",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1819437",
       "rss_published_at": ""
     },
     {
       "index": 60,
-      "title": "The association between poor glycemic control and PTSD in patients with diabetes mellitus in primary healthcare in Palestine",
-      "ja_title": "パレスチナのプライマリヘルスケアにおける糖尿病患者の血糖コントロール不良とPTSDとの関連性",
-      "media": "Frontiers in Medicine",
-      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1783847",
+      "title": "Vitamin D levels, general health status, and work productivity among healthcare workers—a scoping review of published literature (2010–2025)",
+      "ja_title": "医療従事者のビタミンD濃度、一般的な健康状態、および労働生産性に関する、発表済み文献の概観レビュー（2010年～2025年）",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1816046",
       "rss_published_at": ""
     },
     {
       "index": 61,
-      "title": "A new method for visualizing cerebrovascular vessels",
-      "ja_title": "脳血管を可視化する新しい方法",
-      "media": "Frontiers in Molecular Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnmol.2026.1753542",
+      "title": "Balancing metabolic optimization and reproductive safety in Polycystic Ovary Syndrome: a Bayesian-informed framework for GLP-1 receptor agonists",
+      "ja_title": "多嚢胞性卵巣症候群における代謝最適化と生殖安全性のバランス：GLP-1受容体作動薬のためのベイズ統計に基づくフレームワーク",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1809416",
       "rss_published_at": ""
     },
     {
       "index": 62,
-      "title": "Decoding GPCR signaling in living cells to advance early therapeutic discovery for neurological disorders",
-      "ja_title": "生細胞におけるGPCRシグナル伝達の解読による神経疾患の早期治療法発見の促進",
-      "media": "Frontiers in Molecular Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnmol.2026.1789400",
+      "title": "Prognostic impact of the combined effects of lipoprotein(a) and homocysteine in patients with premature myocardial infarction: a prospective cohort study",
+      "ja_title": "早期心筋梗塞患者におけるリポタンパク質(a)とホモシステインの複合効果の予後への影響：前向きコホート研究",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1829711",
       "rss_published_at": ""
     },
     {
       "index": 63,
-      "title": "Evaluating reliability of automated quantitative brain morphometry from fetal T2-weighted MRI",
-      "ja_title": "胎児T2強調MRI画像からの自動定量的脳形態計測の信頼性評価",
-      "media": "Frontiers in Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2026.1817732",
+      "title": "Cholesterol, high-density lipoprotein, and glucose (CHG) index and incident impaired fasting glucose in Chinese adults: a retrospective longitudinal cohort study",
+      "ja_title": "中国成人におけるコレステロール、高密度リポタンパク質、グルコース（CHG）指数と空腹時血糖異常の発症：後向き縦断コホート研究",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1814747",
       "rss_published_at": ""
     },
     {
       "index": 64,
-      "title": "GLOBE: an explainable machine learning platform for preoperative prediction of thromboembolism and neurological deterioration in patients with glioma",
-      "ja_title": "GLOBE：神経膠腫患者における血栓塞栓症および神経学的悪化の術前予測のための説明可能な機械学習プラットフォーム",
-      "media": "Frontiers in Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2026.1801112",
+      "title": "Cell sources and engineering strategies for cultured meat production: a critical comparative review",
+      "ja_title": "培養肉生産のための細胞源と工学的戦略：重要な比較レビュー",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1791530",
       "rss_published_at": ""
     },
     {
       "index": 65,
-      "title": "Domain-aware domain–class adaptation network for motor execution to motor imagery EEG classification",
-      "ja_title": "運動イメージEEG分類のための運動実行に関するドメイン認識型ドメインクラス適応ネットワーク",
-      "media": "Frontiers in Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2026.1851006",
+      "title": "Dendrobium officinale polysaccharide ameliorates high-fat diet-induced hepatic lipid metabolic disorder via the SIRT6/PGC-1α signaling axis",
+      "ja_title": "デンドロビウム・オフィシナレ多糖類は、SIRT6/PGC-1αシグナル伝達経路を介して、高脂肪食誘発性肝脂質代謝障害を改善する。",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1763341",
       "rss_published_at": ""
     },
     {
       "index": 66,
-      "title": "Efficacy of repetitive transcranial magnetic stimulation for insomnia disorder: a systematic review and meta-analysis of randomized controlled trials",
-      "ja_title": "不眠症に対する反復経頭蓋磁気刺激療法の有効性：ランダム化比較試験の系統的レビューとメタ分析",
-      "media": "Frontiers in Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2026.1816963",
+      "title": "Retraction: Acupuncture and nutritional parallels in obesity: a narrative review of multi-pathway modulation of the microbiota–gut–brain axis",
+      "ja_title": "撤回：肥満における鍼治療と栄養の類似性：腸内細菌叢－腸－脳軸の多経路調節に関する概説",
+      "media": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894651",
       "rss_published_at": ""
     },
     {
       "index": 67,
-      "title": "Consumption of a 12.5% carbohydrate after 8 h of fasting does not delay gastric emptying in healthy volunteers: a single-blind, randomized, non-inferiority trial",
-      "ja_title": "8時間の絶食後に12.5%の炭水化物を摂取しても、健康な被験者の胃内容排出は遅延しない：単盲検無作為化非劣性試験",
+      "title": "Effect of a nutrition education intervention on caregivers' knowledge, attitudes and practices regarding infant feeding and micronutrient powder use in urban health centers in Maputo, Mozambique",
+      "ja_title": "モザンビークの首都マプトの都市部にある保健センターにおける、栄養教育介入が介護者の乳児の授乳と微量栄養素粉末の使用に関する知識、態度、実践に及ぼす影響",
       "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1751422",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1833701",
       "rss_published_at": ""
     },
     {
       "index": 68,
-      "title": "Early-life nutritional status as a determinant of bone density and hip joint morphology in children",
-      "ja_title": "小児の骨密度および股関節形態を決定する要因としての幼少期の栄養状態",
+      "title": "Aspartame may promote erectile dysfunction via DPP4-mediated endothelial dysfunction and apoptosis: evidence from network toxicology, molecular dynamics simulation, and experimental validation",
+      "ja_title": "アスパルテームはDPP4を介した内皮機能障害とアポトーシスによって勃起不全を促進する可能性がある：ネットワーク毒性学、分子動力学シミュレーション、および実験的検証からの証拠",
       "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1797867",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1841453",
       "rss_published_at": ""
     },
     {
       "index": 69,
-      "title": "Causal interplay between lactose intolerance and gut microbiota: a combined bidirectional Mendelian randomization and in vivo validation study",
-      "ja_title": "乳糖不耐症と腸内細菌叢の因果的相互作用：双方向メンデルランダム化と生体内検証研究の組み合わせ",
+      "title": "Edible coatings and plasma-activated water: synergistic strategies for extending fresh produce shelf life",
+      "ja_title": "食用コーティングとプラズマ活性化水：生鮮食品の保存期間を延長するための相乗効果のある戦略",
       "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1803337",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1824743",
       "rss_published_at": ""
     },
     {
       "index": 70,
-      "title": "Vitamin D status and Helicobacter pylori infection: clinical associations and lipid pathway differences in an exploratory metabolomics sub-study",
-      "ja_title": "ビタミンDの状態とヘリコバクター・ピロリ感染：探索的メタボロミクスサブスタディにおける臨床的関連性と脂質経路の違い",
+      "title": "Consumption of ultra-processed foods is associated with cognitive status in elderly patients",
+      "ja_title": "超加工食品の摂取は高齢患者の認知機能と関連している",
       "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812874",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1839722",
       "rss_published_at": ""
     },
     {
       "index": 71,
-      "title": "Targeting hepcidin to restore oral iron efficacy after vertical sleeve gastrectomy",
-      "ja_title": "垂直スリーブ胃切除術後の経口鉄剤の効果回復を目的としたヘプシジンの標的化",
+      "title": "Comparative analysis of four nutritional scores in predicting hospital stay duration for EICU Patients with acute pancreatitis",
+      "ja_title": "急性膵炎のEICU患者における入院期間予測における4つの栄養スコアの比較分析",
       "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1746572",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1791814",
       "rss_published_at": ""
     },
     {
       "index": 72,
-      "title": "Predicting short-term composite outcome risk in heart failure patients using a machine learning model incorporating UHR: a retrospective cohort study",
-      "ja_title": "UHRを組み込んだ機械学習モデルを用いた心不全患者の短期複合転帰リスクの予測：後向きコホート研究",
-      "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1846081",
+      "title": "Skeletal muscle overuse injury: pathophysiological mechanisms, molecular pathways, and rehabilitation strategies",
+      "ja_title": "骨格筋の使いすぎによる損傷：病態生理学的メカニズム、分子経路、およびリハビリテーション戦略",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1832044",
       "rss_published_at": ""
     },
     {
       "index": 73,
-      "title": "Cardiometabolic risk status modifies the associations between remnant cholesterol with incident diabetes: evidence from two East Asian cohorts",
-      "ja_title": "心血管代謝リスクの状態は、残存コレステロールと糖尿病発症との関連性を変化させる：東アジアの2つのコホートからのエビデンス",
-      "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1770876",
+      "title": "Circadian rhythms in glomerular filtration govern natriuresis and diuretic responsiveness",
+      "ja_title": "糸球体濾過における概日リズムは、ナトリウム利尿と利尿薬反応性を制御する。",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1828410",
       "rss_published_at": ""
     },
     {
       "index": 74,
-      "title": "Stepwise nutritional management combined with multimodal rehabilitation for severe dysphagia following medullary infarction in an elderly patient: a case report",
-      "ja_title": "高齢患者における延髄梗塞後の重度嚥下障害に対する段階的栄養管理と多角的リハビリテーションの併用：症例報告",
-      "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1788301",
+      "title": "Laparoscopic removal of retrievable inferior vena cava filters after failed or anticipated technically challenging endovascular retrieval: a retrospective case series of 28 patients",
+      "ja_title": "血管内回収が失敗した場合、または技術的に困難と予想される場合に、回収可能な下大静脈フィルターを腹腔鏡下で除去する：28症例の後向き症例シリーズ",
+      "media": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1789114",
       "rss_published_at": ""
     },
     {
       "index": 75,
-      "title": "Dietary inflammatory potential in depressive symptoms in older Chinese people in Hong Kong: a cohort study",
-      "ja_title": "香港在住の高齢中国人における抑うつ症状に対する食事性炎症誘発因子：コホート研究",
-      "media": "Frontiers in Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1831232",
+      "title": "Effectiveness of a culturally adapted psychoeducational intervention for family caregivers of children with hematologic malignancy: a randomized controlled trial",
+      "ja_title": "血液悪性腫瘍を患う小児の家族介護者に対する文化的に適応させた心理教育的介入の効果：ランダム化比較試験",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1835671",
       "rss_published_at": ""
     },
     {
       "index": 76,
-      "title": "The functional effects of Calanus finmarchicus hydrolysate as a novel feed ingredient for whiteleg shrimp (Litopenaeus vannamei)",
-      "ja_title": "カラヌス・フィンマルキクス加水分解物の、バナメイエビ（Litopenaeus vannamei）用新規飼料成分としての機能的効果",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1820807",
+      "title": "Colorism and eating disorders (ED) among BIPOC: expanding the skin tone trauma model to conceptualize a pathway",
+      "ja_title": "BIPOCにおけるカラーイズムと摂食障害（ED）：肌の色トラウマモデルを拡張して経路を概念化する",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1811526",
       "rss_published_at": ""
     },
     {
       "index": 77,
-      "title": "Convergent validity of taekwondo high-intensity intermittent sport-specific tests and their relationship with lower limb muscle power performance",
-      "ja_title": "テコンドーの高強度間欠運動における競技特有のテストの収束妥当性と、それらのテストと下肢筋力パフォーマンスとの関係",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1825858",
+      "title": "Clinical correlates and cognitive associations of the neutrophil-to-lymphocyte ratio in first-episode psychosis and at-risk mental states",
+      "ja_title": "初回精神病およびリスクのある精神状態における好中球/リンパ球比の臨床的相関および認知的関連性",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1838805",
       "rss_published_at": ""
     },
     {
       "index": 78,
-      "title": "Growth dynamics and compensatory mechanisms in fish under fasting and refeeding regimes",
-      "ja_title": "絶食および再摂食条件下における魚類の成長動態と代償機構",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1799460",
+      "title": "Suicide risk assessment: clinical implications of the unpredictability of suicidal behavior",
+      "ja_title": "自殺リスク評価：自殺行動の予測不可能性が臨床に及ぼす影響",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1844322",
       "rss_published_at": ""
     },
     {
       "index": 79,
-      "title": "Interpretable photoplethysmography-based machine-learning model for noninvasive assessment of systolic blood pressure",
-      "ja_title": "光電容積脈波法に基づく、収縮期血圧の非侵襲的評価のための解釈可能な機械学習モデル",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1779262",
+      "title": "Treatment non-persistence in children and adolescents with Tourette syndrome newly treated with dopamine D2 receptor modulators",
+      "ja_title": "ドーパミンD2受容体調節薬による新規治療を開始したトゥレット症候群の小児および青年における治療継続性の欠如",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1784601",
       "rss_published_at": ""
     },
     {
       "index": 80,
-      "title": "From yacht deck to climate lab: navigating currents and building climate resilience!",
-      "ja_title": "ヨットのデッキから気候実験室へ：潮流を航海し、気候変動への耐性を構築する！",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1867608",
+      "title": "External factors show reproducible local symptom-biomarker associations in middle-aged and older adults with heart disease",
+      "ja_title": "外部要因は、心臓病を患う中高年成人において、再現性のある局所的な症状とバイオマーカーの関連性を示す。",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1870992",
       "rss_published_at": ""
     },
     {
       "index": 81,
-      "title": "Sodium butyrate attenuates D-galactose-induced cellular senescence in WI-38 fibroblasts in vitro via modulation of HDAC activity, Nrf2/ARE pathway, and p53/p21/p16 signaling",
-      "ja_title": "酪酸ナトリウムは、HDAC活性、Nrf2/ARE経路、およびp53/p21/p16シグナル伝達の調節を介して、in vitroでWI-38線維芽細胞におけるD-ガラクトース誘導性細胞老化を軽減する。",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1811143",
+      "title": "Platform shift in mental health support among undergraduates: from campus counselors to GenAI-based consultation​",
+      "ja_title": "大学生のメンタルヘルス支援におけるプラットフォームの転換：キャンパスカウンセラーからGenAIベースの相談へ",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1827394",
       "rss_published_at": ""
     },
     {
       "index": 82,
-      "title": "The readiness–preparedness bias: recalibrating monitoring logic",
-      "ja_title": "準備態勢バイアス：監視ロジックの再調整",
-      "media": "Frontiers in Physiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2026.1855985",
+      "title": "Chemotherapy-related cognitive impairment and non-pharmacological interventions targeting the nervous system: a systematic review",
+      "ja_title": "化学療法に関連する認知機能障害と神経系を標的とした非薬物療法：系統的レビュー",
+      "media": "Frontiers in Psychiatry",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1789794",
       "rss_published_at": ""
     },
     {
       "index": 83,
-      "title": "Predictive value of antioxidant and thyroid function indicators for non-suicidal self-injury in adolescents with major depressive disorder",
-      "ja_title": "大うつ病性障害の青年における非自殺性自傷行為に対する抗酸化物質および甲状腺機能指標の予測値",
+      "title": "The relationship between autistic camouflaging mental health: a scoping review",
+      "ja_title": "自閉症と精神疾患の隠蔽との関係：概観レビュー",
       "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1831669",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1701615",
       "rss_published_at": ""
     },
     {
       "index": 84,
-      "title": "Exercise interventions for depressive symptoms in adults with lung and digestive cancer: a meta-analysis of randomized controlled trials",
-      "ja_title": "肺がんおよび消化器がんの成人患者における抑うつ症状に対する運動介入：ランダム化比較試験のメタ分析",
+      "title": "Patient and therapist perspectives on impact, outcomes and change mechanisms in trauma-focused mentalization-based treatment: a qualitative interview study",
+      "ja_title": "トラウマに焦点を当てたメンタライゼーションに基づく治療における影響、結果、変化のメカニズムに関する患者とセラピストの視点：質的インタビュー調査",
       "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1833619",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1808610",
       "rss_published_at": ""
     },
     {
       "index": 85,
-      "title": "The efficacy of acupuncture for depression-associated chronic pain: a systematic review and meta-analysis",
-      "ja_title": "うつ病に伴う慢性疼痛に対する鍼治療の有効性：系統的レビューとメタ分析",
+      "title": "Determinants of mental health distress among health workers in Abu Dhabi, United Arab Emirates",
+      "ja_title": "アラブ首長国連邦アブダビの医療従事者の精神的苦痛の決定要因",
       "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1845974",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1756380",
       "rss_published_at": ""
     },
     {
       "index": 86,
-      "title": "Two years of COVID-19: persistently reduced well-being and increases in global psychopathology during the pandemic in a representative Austrian population-sample within the COH-FIT study",
-      "ja_title": "新型コロナウイルス感染症の2年間：COH-FIT研究におけるオーストリアの代表的な人口サンプルにおいて、パンデミック期間中の幸福度の持続的な低下と全般的な精神病理の増加",
+      "title": "Reduced left dorsolateral prefrontal activation and right inferior frontal de-oxygenation differ between psychotic and non−psychotic adolescent depression during verbal fluency",
+      "ja_title": "言語流暢性課題中の精神病性および非精神病性の青年期うつ病では、左背外側前頭前野の活動低下と右下前頭葉の脱酸素化に違いが見られる。",
       "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1783600",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1689631",
       "rss_published_at": ""
     },
     {
       "index": 87,
-      "title": "Wearable low-level laser therapy (laser acupuncture) versus manual acupuncture for chronic insomnia: protocol for a randomized, assessor-blinded, superiority trial",
-      "ja_title": "慢性不眠症に対するウェアラブル低出力レーザー療法（レーザー鍼）と手動鍼治療の比較：無作為化、評価者盲検、優越性試験のプロトコル",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1814245",
+      "title": "Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources",
+      "ja_title": "コンピュータサイエンス教育における持続可能なAI知識ベースアシスタントに向けて：オープン教育リソースを用いたオンプレミス展開と最適化",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1843444",
       "rss_published_at": ""
     },
     {
       "index": 88,
-      "title": "Tracking the dynamic breakdown of contextual coherence in schizophrenia using language models",
-      "ja_title": "言語モデルを用いた統合失調症における文脈的整合性の動的な崩壊の追跡",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1848956",
+      "title": "The relationship between training intensity and training effort: the chain mediation of cognitive exhaustion and emotional blunting",
+      "ja_title": "トレーニング強度とトレーニング努力の関係：認知疲労と感情鈍麻の連鎖的媒介",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1829809",
       "rss_published_at": ""
     },
     {
       "index": 89,
-      "title": "Safety and efficacy of AST-001 in children with autism spectrum disorder: a 52-week multicenter long-term follow-up study",
-      "ja_title": "自閉スペクトラム症の小児におけるAST-001の安全性と有効性：52週間の多施設共同長期追跡調査",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1783915",
+      "title": "From laboratory targets to experiential authenticity: reframing the study of veridicality in OBEs",
+      "ja_title": "実験室での目標設定から体験的真正性へ：体外離脱体験における真実性の研究の再構築",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1720998",
       "rss_published_at": ""
     },
     {
       "index": 90,
-      "title": "Identifying psychiatric comorbidities that occur following the introduction of hormonal contraception: a scoping review",
-      "ja_title": "ホルモン避妊薬の導入後に発生する精神疾患の併存症の特定：概観レビュー",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1783906",
+      "title": "Questionable necessity effects on creativity in the workplace: a comment on Mercier and Lubart (2026)",
+      "ja_title": "職場における創造性に対する必要性の影響に関する疑問：MercierとLubart（2026）へのコメント",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1832547",
       "rss_published_at": ""
     },
     {
       "index": 91,
-      "title": "“Homicide and Zonisamide”: a review of the literature and illustrative case report on second and third generation antiseizure medications and psychiatric effects",
-      "ja_title": "「殺人事件とゾニサミド」：第2世代および第3世代抗てんかん薬と精神医学的影響に関する文献レビューと症例報告",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1805235",
+      "title": "Understanding psychological help-seeking attitudes among individuals with sports injuries: the role of psychological risk and protective factors",
+      "ja_title": "スポーツ外傷を負った人々の心理的援助を求める態度を理解する：心理的リスク因子と保護因子の役割",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1856848",
       "rss_published_at": ""
     },
     {
       "index": 92,
-      "title": "Profiles of disability among youths in Singapore and their link to psychological distress and health care utilization",
-      "ja_title": "シンガポールの若者における障害のプロファイルと、心理的苦痛および医療利用との関連性",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1821187",
+      "title": "Night running and internet addiction among university students: a serial mediation model of stress/anxiety and rumination",
+      "ja_title": "大学生における夜間ランニングとインターネット依存症：ストレス／不安と反芻の連続媒介モデル",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1776859",
       "rss_published_at": ""
     },
     {
       "index": 93,
-      "title": "Active-touch texture/material matching and caregiver-reported sensory reactivity in adolescents with autism spectrum disorder: a pilot study",
-      "ja_title": "自閉スペクトラム症の青年における能動的な触覚による質感／素材の一致と介護者による感覚反応性の報告：予備研究",
-      "media": "Frontiers in Psychiatry",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1826858",
+      "title": "Participant versus informant reports of changes in social, emotional, and financial functioning after an exercise intervention with older adults: an actor-partner interdependence model analysis",
+      "ja_title": "高齢者を対象とした運動介入後の社会的、感情的、経済的機能の変化に関する参加者報告と情報提供者報告の比較：アクター・パートナー相互依存モデル分析",
+      "media": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1823279",
       "rss_published_at": ""
     },
     {
       "index": 94,
-      "title": "Digital storytelling interventions to enhance the speaking abilities of elementary-level students with English language difficulties",
-      "ja_title": "英語学習に困難を抱える小学生の会話能力向上を目的としたデジタルストーリーテリング介入",
+      "title": "The associations among motivation, self-efficacy, and anxiety of writing skills in primary school students: a mixed-methods approach",
+      "ja_title": "小学生の作文能力に対する動機づけ、自己効力感、不安の関連性：混合研究法によるアプローチ",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1825184",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1762925",
       "rss_published_at": ""
     },
     {
       "index": 95,
-      "title": "Neurodiversity and mental health in esports",
-      "ja_title": "eスポーツにおける神経多様性とメンタルヘルス",
+      "title": "Effect of perceived stress on sleep quality in Chinese graduate students: the chain mediating role of anxiety and sleep procrastination",
+      "ja_title": "中国人大学院生における知覚ストレスが睡眠の質に及ぼす影響：不安と睡眠先延ばしの連鎖的媒介的役割",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1843950",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1781661",
       "rss_published_at": ""
     },
     {
       "index": 96,
-      "title": "Editorial: Well-being and cognitive science in higher education: measures and intervention",
-      "ja_title": "論説：高等教育における幸福と認知科学：測定と介入",
+      "title": "The effects of negative life events on depression in middle-aged women: the mediating role of rumination and coping styles",
+      "ja_title": "中年女性におけるネガティブなライフイベントがうつ病に及ぼす影響：反芻思考と対処スタイルの媒介的役割",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1847789",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1723958",
       "rss_published_at": ""
     },
     {
       "index": 97,
-      "title": "Effects of brain endurance training on physical and cognitive performance in athletes and physically active individuals: a systematic review",
-      "ja_title": "脳持久力トレーニングがアスリートおよび身体活動的な個人の身体的・認知的パフォーマンスに及ぼす影響：系統的レビュー",
+      "title": "AI-mediated environments and the reconfiguration of symbolic convergence: cognitive implications for shared meaning formation",
+      "ja_title": "AIを介した環境と象徴的収束の再構成：共有意味形成への認知的影響",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1828644",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1859863",
       "rss_published_at": ""
     },
     {
       "index": 98,
-      "title": "Dopaminergic gene–epigenetic interactions and impulsivity traits in elite combat sport athletes",
-      "ja_title": "エリート格闘技選手におけるドーパミン遺伝子とエピジェネティックな相互作用および衝動性特性",
+      "title": "The impact of value-based leadership on employee innovative behavior: the mediating role of organizational identification and moderating role of person-organization matching",
+      "ja_title": "価値観に基づくリーダーシップが従業員の革新的行動に及ぼす影響：組織への同一化の媒介的役割と個人と組織の適合性の調整的役割",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1807306",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1807510",
       "rss_published_at": ""
     },
     {
       "index": 99,
-      "title": "Trait mindfulness and aggressive behavior in physical education undergraduates: a cross-sectional serial mediation analysis of anger rumination and self-control",
-      "ja_title": "体育学部生における特性マインドフルネスと攻撃行動：怒りの反芻と自己制御の横断的連続媒介分析",
+      "title": "Editorial: Bridging the gap between animal models and human addiction: exploring translational paradigms",
+      "ja_title": "論説：動物モデルとヒトの依存症の間のギャップを埋める：トランスレーショナル・パラダイムの探求",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1823802",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1866403",
       "rss_published_at": ""
     },
     {
       "index": 100,
-      "title": "English language learning in an international context: psychological factors among Chinese graduate students in the Philippines",
-      "ja_title": "国際的な文脈における英語学習：フィリピン在住の中国人大学院生における心理的要因",
+      "title": "Social functioning profiles, attention skills and learning: what relationships in early childhood?",
+      "ja_title": "社会的機能プロファイル、注意力、学習：幼児期におけるそれらの関係性とは？",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1766803",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1819472",
       "rss_published_at": ""
     },
     {
       "index": 101,
-      "title": "Companion animals support human wellbeing and health: evolutionary, behavioral and physiological contexts",
-      "ja_title": "コンパニオンアニマルは人間の幸福と健康を支える：進化論的、行動学的、生理学的観点から",
+      "title": "Active success drives momentum, but late-stage errors destroy it: a real-time analysis of volleyball",
+      "ja_title": "積極的な成功は勢いを生み出すが、終盤のミスはそれを台無しにする：バレーボールのリアルタイム分析",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1800617",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1839311",
       "rss_published_at": ""
     },
     {
       "index": 102,
-      "title": "Development and psychometric evaluation of College Students’ Employment Stress Scale based on five-dimensional structure: a case study of Zhejiang University of Science and Technology",
-      "ja_title": "5次元構造に基づく大学生の就業ストレス尺度の開発と心理測定学的評価：浙江科技大学の事例研究",
+      "title": "Judicial assessment of testimonial reliability after EMDR therapy: a case-series analysis",
+      "ja_title": "EMDR療法後の証言の信頼性に関する司法評価：症例シリーズ分析",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1763829",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1809865",
       "rss_published_at": ""
     },
     {
       "index": 103,
-      "title": "Appearance anxiety and college students’ exercise participation: a chain mediation model of negative body image and exercise self-efficacy",
-      "ja_title": "外見への不安と大学生の運動参加：ネガティブな身体イメージと運動自己効力感の連鎖媒介モデル",
+      "title": "The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence",
+      "ja_title": "人工知能時代の学術的誠実性の心理的メカニズムと行動的決定要因",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1828308",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1853790",
       "rss_published_at": ""
     },
     {
       "index": 104,
-      "title": "Beyond the record: aligning policy intentions with employment outcomes",
-      "ja_title": "記録を超えて：政策意図と雇用成果の整合性を図る",
+      "title": "Cognitive-affective configuration of university students’ continuance intention in online learning",
+      "ja_title": "大学生のオンライン学習継続意向の認知・情動構成",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1785990",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1816375",
       "rss_published_at": ""
     },
     {
       "index": 105,
-      "title": "Operationalizing inclusion through drama: the effects of inclusive children's literature on empathic tendencies",
-      "ja_title": "演劇を通してインクルージョンを実践する：インクルーシブな児童文学が共感傾向に及ぼす影響",
+      "title": "From neurobiological regulation to socio-ecological remodeling: a mini review of yoga interventions for adolescent smartphone addiction",
+      "ja_title": "神経生物学的調節から社会生態学的再構築まで：青年期のスマートフォン依存症に対するヨガ介入のミニレビュー",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1836003",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1782953",
       "rss_published_at": ""
     },
     {
       "index": 106,
-      "title": "Employee political skill, leader-member exchange, and promotability: the moderating role of task performance",
-      "ja_title": "従業員の政治的スキル、リーダー・メンバー交換、昇進可能性：タスクパフォ​​ーマンスの調整的役割",
+      "title": "Bridging the neuro-AI chasm: a framework for scalable, contextually adaptive training resources in large-scale brain data science",
+      "ja_title": "ニューロAIのギャップを埋める：大規模脳データサイエンスにおける、拡張可能で文脈適応型のトレーニングリソースのためのフレームワーク",
       "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1855375",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1849742",
       "rss_published_at": ""
     },
     {
       "index": 107,
-      "title": "The hidden cost of patient advocacy: moral courage mediating clinical advocacy behaviors and workplace ostracism among Chinese nurses",
-      "ja_title": "患者擁護活動の隠れたコスト：中国人看護師における臨床擁護行動と職場での排斥を媒介する道徳的勇気",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1835394",
+      "title": "Editorial: Sports, nutrition and public health: analyzing their interconnected impacts",
+      "ja_title": "社説：スポーツ、栄養、そして公衆衛生：それらの相互に関連する影響を分析する",
+      "media": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1861120",
       "rss_published_at": ""
     },
     {
       "index": 108,
-      "title": "Narcissistic consumption in athletes: parallel mediation of brand evangelism between narcissistic personality and hedonic consumption attitude",
-      "ja_title": "アスリートにおける自己愛的な消費行動：自己愛的な性格と快楽的な消費態度の間のブランド伝道の並行的な媒介",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1773459",
+      "title": "Perceived knowledge, attitude, and practice of artificial intelligence among medical students in Guangxi: a cross-sectional study",
+      "ja_title": "広西チワン族自治区の医学生における人工知能に関する認識された知識、態度、および実践：横断研究",
+      "media": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1824962",
       "rss_published_at": ""
     },
     {
       "index": 109,
-      "title": "Positive parenting style and academic burnout in physical education teacher education students: a chain mediating model of physical activity and meaning in life",
-      "ja_title": "体育教師養成課程の学生における肯定的な子育てスタイルと学業燃え尽き症候群：身体活動と人生の意味を媒介する連鎖モデル",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1854548",
+      "title": "Public perceptions of AI in healthcare: a large-scale BERTopic and sentiment analysis of Reddit discussions",
+      "ja_title": "医療分野におけるAIに対する一般の認識：Redditの議論を対象とした大規模なBERTopicおよび感情分析",
+      "media": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1839898",
       "rss_published_at": ""
     },
     {
       "index": 110,
-      "title": "Socio-psychological predictors of school dropout intention among Italian adolescents: evidence from a large-scale study",
-      "ja_title": "イタリアの青少年における学校中退意向の社会心理学的予測因子：大規模研究からのエビデンス",
-      "media": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1705896",
+      "title": "Advancements in smart healthcare in emergency trauma care: from intelligent triage to prognostic prediction",
+      "ja_title": "救急外傷治療におけるスマートヘルスケアの進歩：インテリジェントなトリアージから予後予測まで",
+      "media": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1834849",
       "rss_published_at": ""
     },
     {
       "index": 111,
-      "title": "Maladaptive appearance perfectionism and psychosocial distress among cosmetic dermatology patients",
-      "ja_title": "美容皮膚科患者における不適応な外見完璧主義と心理社会的苦痛",
+      "title": "Public health interventions to improve the mental health and mental health literacy of young people in resource-limited settings: a systematic review",
+      "ja_title": "資源が限られた環境における若者のメンタルヘルスとメンタルヘルスリテラシーを向上させるための公衆衛生介入：系統的レビュー",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1829951",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1741504",
       "rss_published_at": ""
     },
     {
       "index": 112,
-      "title": "Urban–rural disparities in HPV vaccination knowledge, willingness, and uptake among women in the Tibet autonomous region: a multi-center cross-sectional study",
-      "ja_title": "チベット自治区の女性におけるHPVワクチン接種に関する知識、意欲、および接種率の都市部と農村部の格差：多施設横断研究",
+      "title": "AI literacy and attitudes among maternal and child health nurses: a multicenter psychological network analysis of novices and experts in China",
+      "ja_title": "母子保健看護師におけるAIリテラシーと意識：中国の初心者と熟練者を対象とした多施設共同心理ネットワーク分析",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1796545",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1786184",
       "rss_published_at": ""
     },
     {
       "index": 113,
-      "title": "Economic burden of Mycoplasma pneumoniae infection in Jinhua City, China: a multicenter cross-sectional study",
-      "ja_title": "中国金華市におけるマイコプラズマ肺炎感染症の経済的負担：多施設横断研究",
+      "title": "“Short” is not always “scientific”: cross-sectional quality assessment and machine learning–based evaluation of weight management short videos on TikTok and Bilibili",
+      "ja_title": "「短い」ことが必ずしも「科学的」とは限らない：TikTokとBilibiliの体重管理ショートビデオの横断的品質評価と機械学習に基づく評価",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1835645",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1830047",
       "rss_published_at": ""
     },
     {
       "index": 114,
-      "title": "The impact of school life and holidays on sleep and physical activity patterns in junior high school students: a small-sample longitudinal study using wearable devices",
-      "ja_title": "中学生の睡眠と身体活動パターンに対する学校生活と休暇の影響：ウェアラブルデバイスを用いた小規模縦断研究",
+      "title": "Why academic selection fails to protect against physician burnout: a brief research report from a 25-year longitudinal programme",
+      "ja_title": "医師の燃え尽き症候群を防ぐ上で、学術的な選抜がなぜ不十分なのか：25年間の長期追跡調査プログラムからの簡潔な研究報告",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1833198",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1836438",
       "rss_published_at": ""
     },
     {
       "index": 115,
-      "title": "Impact of the compact county medical service community policy on healthcare resource allocation and healthcare service utilization in village clinics: a difference-in-differences analysis in rural Sichuan, China",
-      "ja_title": "コンパクトな郡医療サービス共同体政策が村の診療所における医療資源配分と医療サービス利用に与える影響：中国四川省農村部における差分の差分分析",
+      "title": "Loneliness without an epidemic: gendered pathways, health consequences, and intervention gaps among men in the United States",
+      "ja_title": "流行を伴わない孤独：米国男性における性別による経路、健康への影響、および介入のギャップ",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1826414",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1817065",
       "rss_published_at": ""
     },
     {
       "index": 116,
-      "title": "Prevalence and determinants of substance use among university students in Saudi Arabia: a nationwide online cross-sectional study",
-      "ja_title": "サウジアラビアの大学生における薬物使用の蔓延状況と決定要因：全国規模のオンライン横断研究",
+      "title": "Cognitive sovereignty and neuro-justice: neurotechnological advancements and mental autonomy in the Global South",
+      "ja_title": "認知主権と神経正義：グローバル・サウスにおける神経技術の進歩と精神的自律性",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1841671",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1877249",
       "rss_published_at": ""
     },
     {
       "index": 117,
-      "title": "Associations of early childhood caries and child intelligence quotient: evidence from the Shanghai Birth Cohort",
-      "ja_title": "幼児期のう蝕と子どもの知能指数との関連性：上海出生コホートからのエビデンス",
+      "title": "A semantic FAIRness framework for epidemiological analysis of COVID-19 data in the UAE",
+      "ja_title": "アラブ首長国連邦におけるCOVID-19データの疫学的分析のためのセマンティックFAIRnessフレームワーク",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1803559",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1759032",
       "rss_published_at": ""
     },
     {
       "index": 118,
-      "title": "Impact of artificial intelligence and work digitalization on mental health and occupational well-being: a scoping review",
-      "ja_title": "人工知能と業務のデジタル化がメンタルヘルスと職業上の幸福に及ぼす影響：概観レビュー",
+      "title": "Mobile signaling big data, healthcare-seeking flows, and multidimensional healthcare access in Shanghai: implications for healthcare supply–demand matching and medical security governance",
+      "ja_title": "上海におけるモバイルシグナリングビッグデータ、医療を求める人々の流れ、および多次元的な医療アクセス：医療需給のマッチングと医療セキュリティガバナンスへの影響",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1857108",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1841112",
       "rss_published_at": ""
     },
     {
       "index": 119,
-      "title": "Leveraging social networks to expand HIV self-testing among culturally diverse MSM in Australia: insights from a CFIR-informed process evaluation",
-      "ja_title": "オーストラリアの文化的に多様な男性同性愛者の間でHIVセルフテストを拡大するためのソーシャルネットワークの活用：CFIRに基づいたプロセス評価からの知見",
+      "title": "Early implementation and contextual determinants of the human papillomavirus vaccine rollout and uptake in Nigeria: a mixed-methods study",
+      "ja_title": "ナイジェリアにおけるヒトパピローマウイルスワクチンの導入と普及における初期実施要因と状況的決定要因：混合研究法による調査",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1797893",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1834756",
       "rss_published_at": ""
     },
     {
       "index": 120,
-      "title": "Mental health problems among ethnic minorities during public crises: a systematic review of coping strategies during the COVID-19 pandemic",
-      "ja_title": "公衆衛生危機における少数民族のメンタルヘルス問題：COVID-19パンデミック中の対処戦略に関する系統的レビュー",
+      "title": "Correction: Electronic health literacy and related factors among nursing students: a latent profile analysis",
+      "ja_title": "訂正：看護学生における電子ヘルスリテラシーと関連要因：潜在プロファイル分析",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1822085",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1886442",
       "rss_published_at": ""
     },
     {
       "index": 121,
-      "title": "Propensity score matching assessment of direct medical charges for patients with healthcare-associated infections",
-      "ja_title": "医療関連感染症患者の直接医療費に関する傾向スコアマッチング評価",
+      "title": "Correction: Management strategies to mitigate burnout and turnover intention while enhancing patient safety in neonatal intensive care: an integrative review",
+      "ja_title": "訂正：新生児集中治療における患者の安全性を高めつつ、燃え尽き症候群と離職意向を軽減するための管理戦略：統合的レビュー",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1819607",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1892493",
       "rss_published_at": ""
     },
     {
       "index": 122,
-      "title": "Prevalence and associated determinants of disability among women aged 15–49 years in Somalia: evidence from a 2018/2019 nationwide survey",
-      "ja_title": "ソマリアにおける15～49歳の女性の障害の有病率および関連する決定要因：2018/2019年の全国調査からのエビデンス",
+      "title": "Associations between multidimensional social support and satisfaction with community mental health services: evidence from China with heterogeneity analysis",
+      "ja_title": "多次元的社会的支援と地域精神保健サービスへの満足度との関連性：異質性分析を用いた中国からのエビデンス",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1846271",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1839534",
       "rss_published_at": ""
     },
     {
       "index": 123,
-      "title": "Measuring readiness for disaster response in physiotherapy education: development and validation predisposition assessment tool",
-      "ja_title": "理学療法教育における災害対応準備状況の測定：素因評価ツールの開発と検証",
+      "title": "Facilitators and barriers to physical activity in middle-aged and older adult(s) HIV infected persons: a systematic review of qualitative studies",
+      "ja_title": "中高年のHIV感染者における身体活動の促進要因と阻害要因：質的研究の系統的レビュー",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1814454",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1809117",
       "rss_published_at": ""
     },
     {
       "index": 124,
-      "title": "Weekly work hours and cervical spine dysfunction among video display terminal workers: mediating roles of occupational stress and sleep quality",
-      "ja_title": "ビデオディスプレイ端末作業員における週労働時間と頸椎機能障害：職業性ストレスと睡眠の質の媒介的役割",
+      "title": "Exploration and practice of AI-enabled smart caregiver-free ward with traditional Chinese medicine characteristics: a case study based on the Guangming branch of Shenzhen Traditional Chinese Medicine Hospital",
+      "ja_title": "AIを活用したスマート介護者不要病棟の探求と実践：深セン中医病院光明分院を事例としたケーススタディ",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1798795",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1799247",
       "rss_published_at": ""
     },
     {
       "index": 125,
-      "title": "Influenza vaccine hesitancy and its influencing factors among community-dwelling older adults in Shihezi City, Xinjiang, Western China",
-      "ja_title": "中国西部新疆ウイグル自治区石河子市在住高齢者におけるインフルエンザワクチン接種への躊躇とその影響要因",
+      "title": "Barriers to hand hygiene practices and improvement expectations among awake ICU patients: a qualitative study",
+      "ja_title": "覚醒状態の集中治療室患者における手指衛生習慣の阻害要因と改善への期待：定性調査",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1785390",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1814268",
       "rss_published_at": ""
     },
     {
       "index": 126,
-      "title": "Timely or detailed? The impact of information disclosure on citizen co-production",
-      "ja_title": "タイムリーか、詳細か？情報公開が市民の共同制作に与える影響",
+      "title": "Breaking the “idling dilemma” of donated medical equipment: a TDABC-based analysis of health policy failure and a pathway to reform",
+      "ja_title": "寄贈医療機器の「遊休問題」を打破する：TDABCに基づく医療政策の失敗分析と改革への道筋",
       "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1774267",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1816383",
       "rss_published_at": ""
     },
     {
       "index": 127,
-      "title": "Do clock-in for physical exercise in campus help in building undergraduate exercise habits? Evidence from undergraduates in Henan, China",
-      "ja_title": "キャンパス内での運動の記録は、大学生の運動習慣の形成に役立つか？中国河南省の大学生からの証拠",
-      "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1844179",
+      "title": "“Laro, Layunin, Lagablab”: exploring study engagement in Filipino recreational games-based physical education through the tripartite model of individual interest",
+      "ja_title": "「遊び、遊び、遊び」：個人の興味の三位一体モデルを通して、フィリピンのレクリエーションゲームをベースとした体育における学習への取り組みを探る",
+      "media": "Frontiers in Sports and Active Living",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1797819",
       "rss_published_at": ""
     },
     {
       "index": 128,
-      "title": "Platform algorithmic stress and career commitment of Chinese gig workers: a double-edged sword effect study",
-      "ja_title": "中国のギグワーカーにおけるプラットフォームアルゴリズムによるストレスとキャリアへのコミットメント：両刃の剣効果に関する研究",
-      "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1824610",
+      "title": "Strategic priorities and barriers to an effective anti-doping programme: views and opinions of European NADO leaders",
+      "ja_title": "効果的なアンチ・ドーピング・プログラムの戦略的優先事項と障壁：欧州NADOリーダーの見解と意見",
+      "media": "Frontiers in Sports and Active Living",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1812825",
       "rss_published_at": ""
     },
     {
       "index": 129,
-      "title": "Arts on prescription for wellbeing in adults: systematic review",
-      "ja_title": "成人の幸福感を高めるための芸術療法：系統的レビュー",
-      "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1833798",
+      "title": "Recycling emotions in football: effects of an emotional training program based on psychophysical metaphors with young footballers",
+      "ja_title": "サッカーにおける感情のリサイクル：心理生理学的メタファーに基づく感情トレーニングプログラムが若手サッカー選手に及ぼす影響",
+      "media": "Frontiers in Sports and Active Living",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1829114",
       "rss_published_at": ""
     },
     {
       "index": 130,
-      "title": "Editorial: Advancing public health through generative artificial intelligence: a focus on digital well-being and the economy of attention",
-      "ja_title": "社説：生成型人工知能による公衆衛生の推進：デジタルウェルビーイングとアテンションエコノミーに焦点を当てて",
-      "media": "Frontiers in Public Health",
-      "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2026.1876366",
+      "title": "Editorial: The application of complex training in sports: theory, practice, and impact",
+      "ja_title": "論説：スポーツにおける複合トレーニングの応用：理論、実践、そして影響",
+      "media": "Frontiers in Sports and Active Living",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1875978",
       "rss_published_at": ""
     },
     {
       "index": 131,
-      "title": "The prospective efficacy of stumble recovery responses in a powered knee prosthesis",
-      "ja_title": "電動膝プロテーゼにおけるつまずき回復反応の将来的な有効性",
-      "media": "Frontiers in Robotics and AI",
-      "url": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1791652",
+      "title": "Effects of team sports on sleep quality: a systematic review",
+      "ja_title": "チームスポーツが睡眠の質に及ぼす影響：系統的レビュー",
+      "media": "Frontiers in Sports and Active Living",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1746309",
       "rss_published_at": ""
     },
     {
       "index": 132,
-      "title": "Analysis of hip rotation ROM and strength in amateur soccer players: a cross-sectional study",
-      "ja_title": "アマチュアサッカー選手における股関節回旋可動域と筋力の分析：横断研究",
+      "title": "Editorial: Advancing biomechanics: enhancing sports performance, mitigating injury risks, and optimizing athlete rehabilitation, volume II",
+      "ja_title": "論説：バイオメカニクスの進歩：スポーツパフォーマンスの向上、傷害リスクの軽減、アスリートのリハビリテーションの最適化、第2巻",
       "media": "Frontiers in Sports and Active Living",
-      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1837082",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1872907",
       "rss_published_at": ""
     },
     {
       "index": 133,
-      "title": "Differences in lower-extremity strength and power between elite hockey players with and without patellar asymptomatic tendon thickening; unilateral and bilateral comparative analysis",
-      "ja_title": "膝蓋腱無症候性肥厚のあるエリートホッケー選手とないエリートホッケー選手の下肢筋力とパワーの差；片側および両側の比較分析",
+      "title": "A governance process lens for evaluating local public sport facilities: a multi-level conceptual framework",
+      "ja_title": "地方公共スポーツ施設の評価におけるガバナンスプロセスの視点：多層的な概念フレームワーク",
       "media": "Frontiers in Sports and Active Living",
-      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1841375",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1844897",
       "rss_published_at": ""
     },
     {
       "index": 134,
-      "title": "Effect of Nitya-Abhyaṅga (self-massage) combined with stretching on hamstring extensibility, muscle stiffness, and stretch tolerance in college students: a randomized controlled trial",
-      "ja_title": "大学生におけるハムストリングの伸展性、筋硬直、および伸展耐性に対するニティヤ・アビヤンガ（セルフマッサージ）とストレッチングの併用効果：ランダム化比較試験",
+      "title": "Cognitive performance recovery following marijuana cessation in NCAA division I athletes",
+      "ja_title": "NCAAディビジョンIアスリートにおけるマリファナ使用中止後の認知機能回復",
       "media": "Frontiers in Sports and Active Living",
-      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1800782",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1821656",
       "rss_published_at": ""
     },
     {
       "index": 135,
-      "title": "Forearm blood flow and vascular conductance improve after 18 weeks of bouldering training in novice climbers",
-      "ja_title": "初心者クライマーのボルダリングトレーニング18週間後には、前腕の血流と血管伝導率が改善する",
+      "title": "Beyond excellence, friendship and respect: olympic education stakeholders’ priorities for values in a changing world",
+      "ja_title": "卓越性、友情、そして尊敬を超えて：変化する世界におけるオリンピック教育関係者の価値観の優先事項",
       "media": "Frontiers in Sports and Active Living",
-      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1818579",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1823613",
       "rss_published_at": ""
     },
     {
       "index": 136,
-      "title": "Influence of the relative age effect and maturity status on competitive playing time in an elite football academy",
-      "ja_title": "エリートサッカーアカデミーにおける、相対年齢効果と成熟度ステータスが競技出場時間に及ぼす影響",
+      "title": "Engaging people with lived experience to co-design a community-led physical activity and diabetes prevention intervention for people experiencing homelessness",
+      "ja_title": "ホームレス状態にある人々を対象とした、地域主導型の身体活動促進および糖尿病予防介入策を、当事者の経験を持つ人々と共に共同設計する。",
       "media": "Frontiers in Sports and Active Living",
-      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1815789",
+      "url": "https://www.frontiersin.org/articles/10.3389/fspor.2026.1764108",
       "rss_published_at": ""
     },
     {
       "index": 137,
-      "title": "A hedonic pricing analysis of product attributes and hygiene practices in Ethiopia's urban vegetable markets",
-      "ja_title": "エチオピアの都市部野菜市場における製品特性と衛生習慣に関する快楽価格分析",
+      "title": "Management and production factors that determine greenhouse gas emissions in heterogeneous dairy farms in New Zealand",
+      "ja_title": "ニュージーランドの多様な酪農場における温室効果ガス排出量を決定する管理および生産要因",
       "media": "Frontiers in Sustainable Food Systems",
-      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1828542",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1815126",
       "rss_published_at": ""
     },
     {
       "index": 138,
-      "title": "Modulating the properties of bioactive cellulose acetate electrospun films using aloe vera gel and lemongrass essential oil for sustainable active food packaging",
-      "ja_title": "アロエベラゲルとレモングラス精油を用いて生物活性セルロースアセテート電界紡糸フィルムの特性を調整し、持続可能な活性食品包装に活用する",
+      "title": "Improving agricultural production as a public health strategy in the United States: a framework for integrated policy",
+      "ja_title": "米国における公衆衛生戦略としての農業生産性の向上：統合政策のための枠組み",
       "media": "Frontiers in Sustainable Food Systems",
-      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1821293",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1771142",
       "rss_published_at": ""
     },
     {
       "index": 139,
-      "title": "Mango leaf disease classification using a hybrid model of ResNet50 and quantum machine learning",
-      "ja_title": "ResNet50と量子機械学習のハイブリッドモデルを用いたマンゴー葉病害の分類",
+      "title": "The climate security sensitivity tool: a theoretical approach to peace-positive climate adaptation in agricultural development",
+      "ja_title": "気候安全保障感度ツール：農業開発における平和促進的な気候変動適応への理論的アプローチ",
       "media": "Frontiers in Sustainable Food Systems",
-      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1837661",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1765880",
       "rss_published_at": ""
     },
     {
       "index": 140,
-      "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
-      "ja_title": "非共有結合触媒アセンブリを介したエナンチオ選択的水素原子リレー",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10692-4",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "A comprehensive review on Elaeocarpus ganitrus: phytochemical potential and sustainable applications in food systems",
+      "ja_title": "Elaeocarpus ganitrusに関する包括的なレビュー：植物化学的可能性と食品システムにおける持続可能な応用",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1853884",
+      "rss_published_at": ""
     },
     {
       "index": 141,
-      "title": "Passive heart-rate monitoring during smartphone use in everyday life",
-      "ja_title": "日常生活におけるスマートフォン使用時の受動的な心拍数モニタリング",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10507-6",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "The national sustainable taxonomy proposals and their implications for agribusiness",
+      "ja_title": "国家持続可能な分類体系の提案と、それが農業ビジネスに及ぼす影響",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1774282",
+      "rss_published_at": ""
     },
     {
       "index": 142,
-      "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
-      "ja_title": "Polymarketは科学の進歩を予測できるのか、それとも各分野の専門家の方が優れているのか？",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01688-1",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Effects of soil cover practices on soil health and agroecological functions",
+      "ja_title": "土壌被覆方法が土壌の健全性と農業生態学的機能に及ぼす影響",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1866724",
+      "rss_published_at": ""
     },
     {
       "index": 143,
-      "title": "How long can humans live? We simply don’t know",
-      "ja_title": "人間はどれくらい生きられるのか？それは誰にもわからない。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01728-w",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Editorial: Processing and preservation of indigenous food crops: sustainable agenda for nutrition security in the Global South",
+      "ja_title": "社説：在来食用作物の加工と保存：グローバル・サウスにおける栄養安全保障のための持続可能なアジェンダ",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1868614",
+      "rss_published_at": ""
     },
     {
       "index": 144,
-      "title": "Science fiction: nine lab-life novels for your holiday reading",
-      "ja_title": "SF小説：休暇中に読むのにぴったりの、実験室生活を舞台にした小説9選",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01730-2",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Gender responsive climate-smart agroforestry: evidence from the Western Himalaya",
+      "ja_title": "ジェンダーに配慮した気候変動対応型アグロフォレストリー：西ヒマラヤからの証拠",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1814027",
+      "rss_published_at": ""
     },
     {
       "index": 145,
-      "title": "Why it’s time to bin recommendation letters in science job applications",
-      "ja_title": "科学分野の求人応募において推薦状を廃止すべき理由",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-00507-x",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Correction: Incentivizing smallholder farmers' green production behaviors with nudges: an experimental survey study in Heping Town, China",
+      "ja_title": "訂正：ナッジを用いて小規模農家のグリーン生産行動を促進する：中国和平鎮における実験的調査研究",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1842482",
+      "rss_published_at": ""
     },
     {
       "index": 146,
-      "title": "Robust projections of risks to the Amazon rainforest",
-      "ja_title": "アマゾン熱帯雨林に対するリスクの確実な予測",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01158-8",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Mediated influence of digital agriculture technologies on climate-smart agriculture decisions among smallholder farmers in sub-Saharan Africa: a systematic review",
+      "ja_title": "サハラ以南アフリカの小規模農家における気候変動対策型農業意思決定に対するデジタル農業技術の媒介的影響：系統的レビュー",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1818609",
+      "rss_published_at": ""
     },
     {
       "index": 147,
-      "title": "Smartphone camera takes users’ pulse passively during device use",
-      "ja_title": "スマートフォンのカメラは、デバイス使用中にユーザーの脈拍をパッシブに測定する。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01488-7",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "From weather reliance to digital empowerment: the role of the digital economy in enhancing agricultural industry resilience",
+      "ja_title": "天候依存からデジタル化による力へ：農業産業の回復力強化におけるデジタル経済の役割",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1827043",
+      "rss_published_at": ""
     },
     {
       "index": 148,
-      "title": "Poor supervision is pushing young researchers out of academia",
-      "ja_title": "不十分な指導体制が、若手研究者を学術界から追い出している。",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01693-4",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Understanding gender disparities in access to digital advisory services among women and men farmers in Ghana",
+      "ja_title": "ガーナの女性農家と男性農家におけるデジタルアドバイザリーサービスへのアクセスにおける男女格差の理解",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1614245",
+      "rss_published_at": ""
     },
     {
       "index": 149,
-      "title": "Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit",
-      "ja_title": "肥満は必ずしも不健康を意味するわけではない：なぜ「病気」というレッテルが必ずしも当てはまらないのか",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01729-9",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Nano-treatment driven improvements in winter wheat productivity and grain quality in arid agroecosystems",
+      "ja_title": "乾燥地帯の農業生態系における冬小麦の生産性と穀物品質の向上を目的としたナノ処理",
+      "media": "Frontiers in Sustainable Food Systems",
+      "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2026.1847020",
+      "rss_published_at": ""
     },
     {
       "index": 150,
-      "title": "Daily briefing: Pigeons might find their way by following their liver",
-      "ja_title": "日々のブリーフィング：ハトは肝臓を頼りに道を見つけるかもしれない",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01768-2",
-      "rss_published_at": "2026-05-29T00:00:00.000Z"
+      "title": "AI-directed procedural content generation for personalized XR in industrial-heritage museums",
+      "ja_title": "産業遺産博物館におけるパーソナライズされたXRのためのAI主導型手続き型コンテンツ生成",
+      "media": "Frontiers in Virtual Reality",
+      "url": "https://www.frontiersin.org/articles/10.3389/frvir.2026.1788711",
+      "rss_published_at": ""
     },
     {
       "index": 151,
-      "title": "Daily briefing: Gene-activity ‘clock’ predicts biological ageing",
-      "ja_title": "日々のブリーフィング：遺伝子活動の「時計」が生物学的老化を予測する",
-      "media": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01734-y",
-      "rss_published_at": "2026-05-28T00:00:00.000Z"
+      "title": "JAMA",
+      "ja_title": "JAMA",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849651",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 152,
-      "title": "Selpercatinib in Early-Stage RET Fusion–Positive Non–Small-Cell Lung Cancer",
-      "ja_title": "早期RET融合遺伝子陽性非小細胞肺癌に対するセルペルカチニブ",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602628?af=R&rss=currentIssue",
-      "rss_published_at": "2026-05-31T12:00:00.000Z"
+      "title": "Audio Highlights May 8, 2026",
+      "ja_title": "音声ハイライト 2026年5月8日",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849018",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 153,
-      "title": "Perioperative Apalutamide in High-Risk Localized Prostate Cancer",
-      "ja_title": "高リスク限局性前立腺癌における周術期アパルタミド投与",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603878?af=R&rss=currentIssue",
-      "rss_published_at": "2026-05-31T12:00:00.000Z"
+      "title": "New Study Finds No Link Between Acetaminophen Use in Pregnancy and Autism",
+      "ja_title": "新たな研究で、妊娠中のアセトアミノフェン使用と自閉症との関連性は認められないことが判明",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849017",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 154,
-      "title": "Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer",
-      "ja_title": "既治療転移性膵臓がんにおけるダラキソンラシブまたは化学療法",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605555?af=R&rss=currentIssue",
-      "rss_published_at": "2026-05-31T12:00:00.000Z"
+      "title": "Kratom Use and Severe Health Outcomes Surge in the US",
+      "ja_title": "米国でクラトムの使用と深刻な健康被害が急増",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849016",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 155,
-      "title": "A Watershed Moment in the Perioperative Treatment of Prostate Cancer",
-      "ja_title": "前立腺がんの周術期治療における画期的な出来事",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMe2606250?af=R&rss=currentIssue",
-      "rss_published_at": "2026-05-31T12:00:00.000Z"
+      "title": "Syphilis Linked to Higher Risk of Some Cardiovascular Outcomes",
+      "ja_title": "梅毒は一部の心血管疾患のリスク上昇と関連している",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849015",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 156,
-      "title": "<span>T</span>owards a holistic understanding of pain in the biomarker age",
-      "ja_title": "バイオマーカー時代における痛みの包括的な理解に向けて",
-      "media": "Nature Neuroscience",
-      "url": "https://www.nature.com/articles/s41593-026-02323-y",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Alternative Medicine Use Rises Among US Children",
+      "ja_title": "米国の子どもたちの間で代替医療の利用が増加",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849014",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 157,
-      "title": "Why pain biomarkers cannot replace the patient experience",
-      "ja_title": "痛みのバイオマーカーが患者の経験を代替できない理由",
-      "media": "Nature Neuroscience",
-      "url": "https://www.nature.com/articles/s41593-026-02324-x",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Excessive Daytime Napping Tied to Mortality in Older Adults",
+      "ja_title": "高齢者の過剰な昼寝は死亡率の上昇と関連している",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849013",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 158,
-      "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks",
-      "ja_title": "深部脳刺激は白質の再構築と脳全体のネットワークの機能的変化を誘発する",
-      "media": "Nature Neuroscience",
-      "url": "https://www.nature.com/articles/s41593-026-02301-4",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Virtual Neurology Visits Comparable With In-Person for Initial Evaluations",
+      "ja_title": "初回診察においては、オンライン神経科診察は対面診察と同等の効果がある",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849012",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 159,
-      "title": "Downplaying toxicities in cancer drug trials is not acceptable",
-      "ja_title": "がん治療薬の臨床試験において毒性を軽視することは容認できない。",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04463-x",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Can Multicancer Detection Blood Tests Save Lives?",
+      "ja_title": "複数の癌を検出する血液検査は命を救うことができるのか？",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2849011",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 160,
-      "title": "Incretin therapies, nutrition and food insecurity in the UK",
-      "ja_title": "英国におけるインクレチン療法、栄養、および食料不安",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04426-2",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke",
+      "ja_title": "虚血性脳卒中に対する血管内治療前の静脈内テネクテプラーゼ投与",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848807",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 161,
-      "title": "Manageable toxicity is not a label — it is an oxymoron",
-      "ja_title": "管理可能な毒性とはレッテルではなく、矛盾語法である。",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04464-w",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours Research Summary",
+      "ja_title": "虚血性脳卒中に対する血管内治療前の4.5～24時間における静脈内テネクテプラーゼ投与に関する研究概要",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848806",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 162,
-      "title": "Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial",
-      "ja_title": "膠芽腫に対する腫瘍標的型インターフェロンα遺伝子治療：第1相臨床試験",
-      "media": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04419-1",
-      "rss_published_at": "2026-06-01T00:00:00.000Z"
+      "title": "Intra-arterial Alteplase After Thrombectomy for Acute Ischemic Stroke",
+      "ja_title": "急性虚血性脳卒中に対する血栓除去術後の動脈内アルテプラーゼ投与",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848750",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 163,
-      "title": "The Dirt That Refused To Die",
-      "ja_title": "死を拒んだ土",
-      "media": "QuantaMagazine",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "rss_published_at": "2026-06-01T14:44:57.000Z"
+      "title": "Current Comment",
+      "ja_title": "現在のコメント",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848749",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 164,
-      "title": "An Update on Somatic Treatments for Suicide Risk",
-      "ja_title": "自殺リスクに対する身体療法に関する最新情報",
-      "media": "The American Journal of Psychiatry",
-      "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.20260287?af=R",
-      "rss_published_at": "2026-06-01T07:00:00.000Z"
+      "title": "One-Year Mortality Among Opioid Overdose Survivors",
+      "ja_title": "オピオイド過剰摂取生存者の1年後死亡率",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848748",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 165,
-      "title": "Relapse Prevention After Successful ECT for Depression: The Role of Lithium and Continuation/Maintenance ECT",
-      "ja_title": "うつ病に対するECT治療成功後の再発予防：リチウムと継続/維持ECTの役割",
-      "media": "The American Journal of Psychiatry",
-      "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.20260210?af=R",
-      "rss_published_at": "2026-06-01T07:00:00.000Z"
+      "title": "AI at the Policy Table",
+      "ja_title": "政策決定の場におけるAI",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848745",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 166,
-      "title": "Mu-Opioid Signaling Engagement as a Candidate Maintenance Mechanism for Prolonging Ketamine’s Antisuicidal Effects",
-      "ja_title": "ケタミンの抗自殺効果を延長するための維持メカニズム候補としてのμ-オピオイドシグナル伝達の活性化",
-      "media": "The American Journal of Psychiatry",
-      "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.20260266?af=R",
-      "rss_published_at": "2026-06-01T07:00:00.000Z"
+      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke",
+      "ja_title": "急性虚血性脳卒中に対する血栓除去術成功後の動脈内アルテプラーゼ補助療法",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848744",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 167,
-      "title": "Go With the Flow: MOR(E) to Ketamine Than NMDA Receptor Antagonism",
-      "ja_title": "流れに身を任せろ：ケタミンに対するNMDA受容体拮抗作用よりもMOR(E)",
-      "media": "The American Journal of Psychiatry",
-      "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.20260275?af=R",
-      "rss_published_at": "2026-06-01T07:00:00.000Z"
+      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke Research Summary",
+      "ja_title": "急性虚血性脳卒中に対する血栓除去術成功後の動脈内アルテプラーゼ補助療法に関する研究概要",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848743",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 168,
-      "title": "Treating Severe Depression and Suicidality",
-      "ja_title": "重度のうつ病と自殺念慮の治療",
-      "media": "The American Journal of Psychiatry",
-      "url": "https://psychiatryonline.org/doi/abs/10.1176/appi.ajp.20260382?af=R",
-      "rss_published_at": "2026-06-01T07:00:00.000Z"
+      "title": "Promoting Clinical Expertise in the Age of AI",
+      "ja_title": "AI時代における臨床専門知識の促進",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848742",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 169,
-      "title": "Beyond the audible: the effects of broadband noise pollution on the development of an herbaceous and a woody plant",
-      "ja_title": "可聴域を超えて：広帯域騒音公害が草本植物と木本植物の発育に及ぼす影響",
-      "media": "Frontiers in Ecology and Evolution",
-      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1773345",
-      "rss_published_at": ""
+      "title": "Hepatitis B: A Review",
+      "ja_title": "B型肝炎：レビュー",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848693",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 170,
-      "title": "Net radiation intensifies trade-offs among ecosystem services in the Zoige Wetland",
-      "ja_title": "ゾイゲ湿地では、正味放射量が生態系サービス間のトレードオフを激化させる。",
-      "media": "Frontiers in Ecology and Evolution",
-      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1846792",
-      "rss_published_at": ""
+      "title": "Treatment of Anterior Cruciate Ligament Rupture",
+      "ja_title": "前十字靭帯断裂の治療",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848670",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 171,
-      "title": "Density of tobacco retail outlets around school in Lao People's Democratic Republic 2024: a geospatial analysis",
-      "ja_title": "ラオス人民民主共和国における学校周辺のタバコ小売店の密度（2024年）：地理空間分析",
-      "media": "Frontiers in Epidemiology",
-      "url": "https://www.frontiersin.org/articles/10.3389/fepid.2026.1817143",
-      "rss_published_at": ""
+      "title": "AI Scribes Are Here, but Is Health Care Ready?",
+      "ja_title": "AIによる医療記録代行サービスは既に登場しているが、医療業界はそれを受け入れる準備ができているのだろうか？",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848666",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 172,
-      "title": "Harnessing postharvest innovation for indigenous crops to advance nutrition and climate resilience in sub-Saharan Africa: a review",
-      "ja_title": "サハラ以南アフリカにおける栄養改善と気候変動への耐性向上を目指した在来作物の収穫後イノベーションの活用：レビュー",
-      "media": "Frontiers in Food Science and Technology",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1745256",
-      "rss_published_at": ""
+      "title": "Cardiology in a Field of Wildflowers",
+      "ja_title": "野花畑で学ぶ心臓病学",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848665",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 173,
-      "title": "Association of neurite orientation dispersion and density imaging with cognitive impairment in nasopharyngeal carcinoma patients with radiation-induced temporal lobe injury",
-      "ja_title": "放射線誘発性側頭葉損傷を伴う鼻咽頭癌患者における神経突起の配向分散および密度イメージングと認知機能障害との関連性",
-      "media": "Frontiers in Human Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1809205",
-      "rss_published_at": ""
+      "title": "Poetry and Medicine: Imagining Doctoring",
+      "ja_title": "詩と医学：医師のあり方を想像する",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848664",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
     },
     {
       "index": 174,
-      "title": "Predictive roles of serum IL-33/ST2 and BDNF in depressed patients with repetitive transcranial magnetic stimulation: a pilot study",
-      "ja_title": "反復経頭蓋磁気刺激を受けたうつ病患者における血清IL-33/ST2およびBDNFの予測的役割：パイロット研究",
+      "title": "Elective MRI Screening of the General Public—Buyer Beware",
+      "ja_title": "一般市民を対象とした任意MRI検査―注意喚起",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848663",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 175,
+      "title": "The Price of Advice—Do Management Consultants Deliver Value to Nonprofit Hospitals?",
+      "ja_title": "助言の代償―経営コンサルタントは非営利病院に価値を提供しているのか？",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848644",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 176,
+      "title": "Changes in Nonprofit Hospitals’ Finances, Operations, and Quality of Care After Using Management Consultants",
+      "ja_title": "経営コンサルタントの活用後の非営利病院の財務、運営、医療の質の変化",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848641",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 177,
+      "title": "The Conundrum of Exercise for Weight Management in the GLP-1 Receptor Agonist Era",
+      "ja_title": "GLP-1受容体作動薬時代における体重管理のための運動の難題",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848640",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 178,
+      "title": "Birth After Uterus Transplant",
+      "ja_title": "子宮移植後の出産",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848619",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 179,
+      "title": "Dietary Guidelines for 2025-2030",
+      "ja_title": "2025年～2030年の食事ガイドライン",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848499",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 180,
+      "title": "Dietary Guidelines for 2025-2030—Reply",
+      "ja_title": "2025年～2030年の食事ガイドラインに関する回答",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848498",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 181,
+      "title": "Sibling Comparisons to Account for Confounding",
+      "ja_title": "交絡因子を考慮するための兄弟姉妹比較",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848381",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 182,
+      "title": "Sibling Comparisons to Account for Confounding—Reply",
+      "ja_title": "交絡因子を考慮するための兄弟姉妹比較―返信",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848380",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 183,
+      "title": "Lay Health Worker–Led Symptom Intervention for Older Adults With Cancer",
+      "ja_title": "高齢者がん患者を対象とした、地域医療従事者主導の症状介入プログラム",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848241",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 184,
+      "title": "Lay Health Worker–Led Symptom Intervention for Older Adults With Cancer—Reply",
+      "ja_title": "高齢者がん患者に対する、地域医療従事者主導の症状介入に関する回答",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2848240",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 185,
+      "title": "Time Is Finite",
+      "ja_title": "時間は有限である",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2847647",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 186,
+      "title": "Fever, Rash, and Shortness of Breath",
+      "ja_title": "発熱、発疹、息切れ",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2847585",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 187,
+      "title": "Patient Information: Keratinocyte Carcinomas",
+      "ja_title": "患者向け情報：角化細胞癌",
+      "media": "JAMA",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2845964",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 188,
+      "title": "Exploring the overuse of non-sterile gloves in operating theatres: a cross-sectional survey and interview study",
+      "ja_title": "手術室における非滅菌手袋の過剰使用の調査：横断的調査とインタビュー研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e102835?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 189,
+      "title": "Patient-reported unmet healthcare needs among people with diabetic kidney disease in primary care in Peninsular Malaysia: a sequential mixed-methods study",
+      "ja_title": "マレーシア半島におけるプライマリケアにおける糖尿病性腎症患者の満たされていない医療ニーズに関する患者報告：逐次混合法研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e105861?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 190,
+      "title": "Spatial variation and distribution of anaemia among children aged 6-59 months in Madagascar: a population-based cross-sectional study",
+      "ja_title": "マダガスカルにおける生後6～59ヶ月児の貧血の空間的変動と分布：人口ベースの横断研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e106211?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 191,
+      "title": "Investigating haemodynamic changes during vaginal delivery in low-risk pregnant women and the association between haemodynamic and adverse pregnancy outcomes: an ambispective cohort study protocol",
+      "ja_title": "低リスク妊婦における経腟分娩中の血行動態変化の調査および血行動態と妊娠転帰不良との関連性：両方向性コホート研究プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e106885?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 192,
+      "title": "Barriers and facilitators to research data collection in resource-limited settings: a qualitative study of research coordinators in the Nigeria Implementation Science Alliance Network",
+      "ja_title": "資源が限られた環境における研究データ収集の障壁と促進要因：ナイジェリア実施科学アライアンスネットワークの研究コーディネーターに関する定性調査",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e107637?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 193,
+      "title": "Effects of argipressin on intraoperative fluid administration in cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC): study protocol of a randomised clinical trial (HiPress Trial)",
+      "ja_title": "温熱腹腔内化学療法を併用した腫瘍減量手術（CRS-HIPEC）における術中輸液投与に対するアルギプレシンの効果：無作為化臨床試験（HiPress試験）の試験プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e107975?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 194,
+      "title": "Post-discharge mortality, readmission and care seeking among postpartum women and their newborns following facility-based delivery in Uganda: a prospective observational study",
+      "ja_title": "ウガンダにおける施設分娩後の産褥期女性とその新生児の退院後死亡率、再入院率、および医療受診行動：前向き観察研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e108734?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 195,
+      "title": "Implementation of a hospital deprescribing behaviour change intervention, the CompreHensive geriAtRician-led MEdication Review (CHARMER) trial: a process evaluation protocol",
+      "ja_title": "病院における薬剤減量行動変容介入、包括的老年医学専門医主導の薬剤レビュー（CHARMER）試験の実施：プロセス評価プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e111152?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 196,
+      "title": "Development and psychometric evaluation of the Patient Safety Culture in Home Health Care Centers Instrument (PSCHCI): a sequential exploratory mixed-methods protocol in Iran",
+      "ja_title": "イランにおける在宅医療センター患者安全文化評価尺度（PSCHCI）の開発と心理測定学的評価：逐次探索的混合法プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e111561?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 197,
+      "title": "Impact of digital premium payment in scaling health insurance coverage in sub-Saharan Africa: systematic review and meta-analysis protocol",
+      "ja_title": "サブサハラアフリカにおける医療保険普及拡大におけるデジタル保険料支払いの影響：系統的レビューとメタ分析プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e113970?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 198,
+      "title": "Randomised, triple-blind, placebo-controlled trial of atosiban in women with previous embryo implantation failure and abnormal uterine contractions undergoing single blastocyst-stage embryo transfer: a study protocol",
+      "ja_title": "過去に胚移植失敗および異常子宮収縮を経験した女性を対象とした、単一胚盤胞期胚移植におけるアトシバンの無作為化三重盲検プラセボ対照試験：研究プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e114029?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 199,
+      "title": "Repeated versus selective tactile stimulation for preterm infants at birth: protocol and statistical analysis plan for a stepped-wedge cluster randomised controlled trial (NEU-stim trial)",
+      "ja_title": "出生時の早産児に対する反復触覚刺激と選択的触覚刺激の比較：段階的クラスター無作為化比較試験（NEU-stim試験）のプロトコルと統計解析計画",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e114181?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 200,
+      "title": "Underlying aetiology of acute intracerebral haemorrhage and associations between outcome measures, findings on initial computed tomography scan and ICH classification systems: an observational historical cohort study",
+      "ja_title": "急性脳内出血の根本的な病因と、転帰指標、初期CTスキャン所見、およびICH分類システムとの関連性：観察的歴史的コホート研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e115457?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 201,
+      "title": "Treatable Traits for Asthma Management in Pregnancy (TTAP): protocol for an Australian multicentre prospective observational cohort study",
+      "ja_title": "妊娠中の喘息管理のための治療可能な特性（TTAP）：オーストラリアの多施設共同前向き観察コホート研究のプロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e115626?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 202,
+      "title": "Phase Ib/II trial to evaluate the safety and efficacy of atezolizumab and bevacizumab as adjuvant therapy following carbon-ion radiotherapy in hepatocellular carcinoma (VANGUARD): study protocol",
+      "ja_title": "肝細胞癌に対する炭素イオン線治療後の補助療法としてのアテゾリズマブおよびベバシズマブの安全性と有効性を評価する第Ib/II相試験（VANGUARD）：試験プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e115731?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 203,
+      "title": "Prevalence and psychosocial correlates of depression, anxiety and stress among caregivers of children with childhood-onset systemic lupus erythematosus in China: a cross-sectional study",
+      "ja_title": "中国における小児期発症全身性エリテマトーデス児の介護者におけるうつ病、不安、ストレスの有病率および心理社会的相関：横断研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e115822?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 204,
+      "title": "Barriers and facilitators to the utilisation of point-of-use water treatment systems during and immediately following flood-related disasters: a scoping review protocol",
+      "ja_title": "洪水関連災害発生時および発生直後における、使用地点別浄水システムの利用を阻害する要因と促進する要因：概観調査プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e115870?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 205,
+      "title": "Cardiac cost of occupational stress among obstetricians: a cross-sectional non-invasive haemodynamic study in a tertiary hospital",
+      "ja_title": "産科医における職業性ストレスの心臓への影響：三次医療機関における横断的非侵襲的血行動態研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e117014?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 206,
+      "title": "Association between completing at least eight antenatal care contacts and maternal anaemia in Ghana: a cross-sectional study using causal machine learning",
+      "ja_title": "ガーナにおける妊婦健診を8回以上受診することと妊産婦貧血との関連性：因果機械学習を用いた横断研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e118189?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 207,
+      "title": "Towards precision vibration therapy for poststroke balance: a domain-specific systematic review and meta-analysis protocol",
+      "ja_title": "脳卒中後バランスに対する精密振動療法に向けて：領域特異的な系統的レビューとメタ分析プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e120149?rss=1",
+      "rss_published_at": "2026-06-02T16:27:21.000Z"
+    },
+    {
+      "index": 208,
+      "title": "Barriers to healthcare access during pregnancy and after birth for adolescent girls living with disability in Sierra Leone: a qualitative study",
+      "ja_title": "シエラレオネに住む障害のある思春期の少女における妊娠中および出産後の医療アクセスへの障壁：質的研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e109084?rss=1",
+      "rss_published_at": "2026-06-02T09:00:30.000Z"
+    },
+    {
+      "index": 209,
+      "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+      "ja_title": "著者訂正：CHIT1陽性ミクログリアは霊長類脊髄における運動ニューロンの老化を促進する",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10728-9",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 210,
+      "title": "Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+      "ja_title": "出版社訂正：人間の生涯における白質の微細構造および巨視的構造の脳図",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10693-3",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 211,
+      "title": "Global plastics treaty must be built on a foundation of monitoring",
+      "ja_title": "世界的なプラスチック条約は、モニタリングを基盤として構築されなければならない。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01775-3",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 212,
+      "title": "Natural capital accounting needs a way to assess uncertainty",
+      "ja_title": "自然資本会計には不確実性を評価する方法が必要である",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01778-0",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 213,
+      "title": "Remembering inventor and activist Hertha Ayrton",
+      "ja_title": "発明家であり活動家でもあったヘルタ・アイルトンを偲んで",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01337-7",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 214,
+      "title": "Power imbalances in adviser–student relationships need safeguarding",
+      "ja_title": "指導教員と学生の関係における権力格差は、保護される必要がある。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01776-2",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 215,
+      "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
+      "ja_title": "研究資金の提案に対して、排出量取引制度を導入する時期が来たのだろうか？",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01777-1",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 216,
+      "title": "The future of science communication is not an article like this",
+      "ja_title": "科学コミュニケーションの未来は、このような記事ではない。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01723-1",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 217,
+      "title": "Will AI ruin the social sciences — or revolutionize them?",
+      "ja_title": "AIは社会科学を破壊するのか、それとも革命を起こすのか？",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01726-y",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 218,
+      "title": "Better diagnostics could have limited this Ebola outbreak",
+      "ja_title": "診断技術の向上により、このエボラ出血熱の流行は抑えられたかもしれない。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01724-0",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 219,
+      "title": "‘Virtual cells’ aim to turn raw data into predictive models of biology",
+      "ja_title": "「仮想細胞」は、生データを生物学の予測モデルに変換することを目指している。",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01731-1",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 220,
+      "title": "Daily briefing: What it will take to stop the spiralling Ebola outbreak",
+      "ja_title": "日々のブリーフィング：拡大するエボラ出血熱の流行を食い止めるには何が必要か",
+      "media": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01782-4",
+      "rss_published_at": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "index": 221,
+      "title": "Microbial reactivation of host androgens directs enteric neuronal regulation of gut motility",
+      "ja_title": "宿主アンドロゲンの微生物による再活性化は、腸管運動の腸管神経制御を誘導する。",
+      "media": "Nature Neuroscience",
+      "url": "https://www.nature.com/articles/s41593-026-02321-0",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 222,
+      "title": "Translating ‘food is medicine’ from concept to reality",
+      "ja_title": "「食は薬」という概念を現実のものにする",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04420-8",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 223,
+      "title": "15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent <i>Clostridioides difficile</i> infection: a randomized phase 1b trial",
+      "ja_title": "再発性クロストリジウム・ディフィシル感染症に対する15株生菌製剤または同一ドナー由来糞便微生物叢移植：ランダム化第1b相試験",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04442-2",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 224,
+      "title": "Medically tailored meals receipt and healthcare utilization and costs in Massachusetts’ Medicaid demonstration",
+      "ja_title": "マサチューセッツ州のメディケイド実証事業における、医療ニーズに合わせた食事の受給状況と医療利用および費用",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04407-5",
+      "rss_published_at": "2026-06-02T00:00:00.000Z"
+    },
+    {
+      "index": 225,
+      "title": "地球科学：ユーフラテス川は360万年前に2つの川が合流して形成された可能性が高い(Nature Geoscience)",
+      "ja_title": "地球科学：ユーフラテス川は360万年前に2つの川が合流して形成された可能性が高い(Nature Geoscience)",
+      "media": "Nature関連誌注目のハイライト",
+      "url": "http://www.natureasia.com/ja-jp/research/highlight/15550",
+      "rss_published_at": "2026-06-01T17:00:00.000Z"
+    },
+    {
+      "index": 226,
+      "title": "地球科学：ユーフラテス川は360万年前に2つの川が合流して形成された可能性が高い",
+      "ja_title": "地球科学：ユーフラテス川は360万年前に2つの川が合流して形成された可能性が高い",
+      "media": "Nature地球と環境",
+      "url": "http://www.natureasia.com/ja-jp/earth-env/research/15550",
+      "rss_published_at": "2026-06-01T17:00:00.000Z"
+    },
+    {
+      "index": 227,
+      "title": "Anxiety-like behaviour in mice after mild repetitive head impacts during the subacute phase",
+      "ja_title": "亜急性期における軽度の反復的な頭部衝撃後のマウスの不安様行動",
+      "media": "Frontiers in Behavioral Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnbeh.2026.1839876",
+      "rss_published_at": ""
+    },
+    {
+      "index": 228,
+      "title": "Schumann-anchored golden ratio organization of human neural oscillations",
+      "ja_title": "シューマン共振を基準としたヒト神経振動の黄金比構造",
+      "media": "Frontiers in Computational Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fncom.2026.1786996",
+      "rss_published_at": ""
+    },
+    {
+      "index": 229,
+      "title": "Explainable and interpretable models for predicting early-onset hypertension in the Tlalpan 2020 cohort",
+      "ja_title": "Tlalpan 2020コホートにおける早期発症高血圧を予測するための、説明可能かつ解釈可能なモデル",
+      "media": "Frontiers in Digital Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fdgth.2026.1805107",
+      "rss_published_at": ""
+    },
+    {
+      "index": 230,
+      "title": "Exploring public perceptions of artificial intelligence in bereavement support: a qualitative study of griefbots",
+      "ja_title": "遺族支援における人工知能に対する一般の認識を探る：グリーフボットに関する定性調査",
+      "media": "Frontiers in Digital Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fdgth.2026.1852514",
+      "rss_published_at": ""
+    },
+    {
+      "index": 231,
+      "title": "Optimizing drug combinations to resurrect the potency of failed antibody therapy against emerging COVID-19 variants using IDentif.AI",
+      "ja_title": "IDentif.AIを使用して、新たなCOVID-19変異株に対する抗体療法の有効性を回復させるための薬剤併用療法の最適化",
+      "media": "Frontiers in Digital Health",
+      "url": "https://www.frontiersin.org/articles/10.3389/fdgth.2026.1744623",
+      "rss_published_at": ""
+    },
+    {
+      "index": 232,
+      "title": "Evolutionary diversification of alternative splicing along a social complexity gradient in aculeata insects",
+      "ja_title": "有針昆虫における社会複雑性勾配に沿った選択的スプライシングの進化的多様化",
+      "media": "Frontiers in Ecology and Evolution",
+      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1849963",
+      "rss_published_at": ""
+    },
+    {
+      "index": 233,
+      "title": "Correction: Neonicotinoid pesticides are more toxic to honey bees at lower temperatures: implications for overwintering bees",
+      "ja_title": "訂正：ネオニコチノイド系農薬は低温下でミツバチに対してより毒性が高い：越冬するミツバチへの影響",
+      "media": "Frontiers in Ecology and Evolution",
+      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1861997",
+      "rss_published_at": ""
+    },
+    {
+      "index": 234,
+      "title": "Succession patterns of foliar endophytic fungal communities during different leaf growth stages in Lycium barbarum",
+      "ja_title": "クコの葉の成長段階ごとの葉内生菌群集の遷移パターン",
+      "media": "Frontiers in Ecology and Evolution",
+      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2026.1777264",
+      "rss_published_at": ""
+    },
+    {
+      "index": 235,
+      "title": "From coverage to care: how basic medical insurance shapes patients’ experiences of primary care in China",
+      "ja_title": "保障から医療へ：中国における基本的な医療保険がプライマリケアにおける患者の経験をどのように形作るか",
+      "media": "Frontiers in Epidemiology",
+      "url": "https://www.frontiersin.org/articles/10.3389/fepid.2026.1785586",
+      "rss_published_at": ""
+    },
+    {
+      "index": 236,
+      "title": "Lower resting-state EEG mean eigenvector centrality is associated with higher math anxiety",
+      "ja_title": "安静時脳波の平均固有ベクトル中心性が低いほど、数学不安が高いことと関連している",
       "media": "Frontiers in Human Neuroscience",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1828777",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1843779",
+      "rss_published_at": ""
+    },
+    {
+      "index": 237,
+      "title": "Primitive reflexes as candidate quantitative readouts of hierarchical inhibitory control across the lifespan",
+      "ja_title": "生涯にわたる階層的抑制制御の定量的指標候補としての原始反射",
+      "media": "Frontiers in Human Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1860053",
+      "rss_published_at": ""
+    },
+    {
+      "index": 238,
+      "title": "Advances in mechanisms of neuroplasticity induced by multimodal closed-loop brain–computer interfaces after stroke",
+      "ja_title": "脳卒中後のマルチモーダル閉ループ脳コンピュータインターフェースによって誘発される神経可塑性のメカニズムの進歩",
+      "media": "Frontiers in Human Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1828191",
+      "rss_published_at": ""
+    },
+    {
+      "index": 239,
+      "title": "Bridging cognition and control through passive eye movement integration in motor imagery brain-computer interfaces",
+      "ja_title": "運動イメージング脳コンピュータインターフェースにおける受動的な眼球運動統合を介した認知と制御の橋渡し",
+      "media": "Frontiers in Human Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2026.1849674",
+      "rss_published_at": ""
+    },
+    {
+      "index": 240,
+      "title": "Improved prediction value of the CURB-65 score combined with the platelet-to-lymphocyte ratio for mortality in emergency department patients with severe community-acquired pneumonia",
+      "ja_title": "重症市中肺炎の救急外来患者における死亡率予測において、CURB-65スコアと血小板/リンパ球比を組み合わせた予測値の改善",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1836427",
+      "rss_published_at": ""
+    },
+    {
+      "index": 241,
+      "title": "Paravertebral muscle degeneration-guided selective fusion strategy for degenerative lumbar scoliosis: a novel approach to minimize surgical invasiveness while optimizing clinical outcomes",
+      "ja_title": "変性腰椎側弯症に対する傍脊椎筋変性誘導選択的固定術戦略：手術侵襲を最小限に抑えつつ臨床転帰を最適化する新しいアプローチ",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1760118",
+      "rss_published_at": ""
+    },
+    {
+      "index": 242,
+      "title": "Analysis of the application effect of an automated eye position fixation training device in patients undergoing pterygium surgery: a two-year follow-up randomized controlled trial",
+      "ja_title": "翼状片手術を受ける患者における自動眼位固定訓練装置の適用効果の分析：2年間の追跡調査に基づく無作為化比較試験",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1764636",
+      "rss_published_at": ""
+    },
+    {
+      "index": 243,
+      "title": "AI-driven cardiovascular risk prediction in patients with diabetes: bridging algorithmic innovation to equitable clinical application",
+      "ja_title": "糖尿病患者におけるAIを活用した心血管リスク予測：アルゴリズム革新と公平な臨床応用の橋渡し",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1831220",
+      "rss_published_at": ""
+    },
+    {
+      "index": 244,
+      "title": "Making the case for azathioprine, methotrexate, and cyclosporine in active vitiligo management",
+      "ja_title": "活動性白斑の治療におけるアザチオプリン、メトトレキサート、シクロスポリンの有効性について",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1744216",
+      "rss_published_at": ""
+    },
+    {
+      "index": 245,
+      "title": "Editorial: Case reports in PET imaging 2024",
+      "ja_title": "論説：PET画像診断における症例報告2024",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1884774",
+      "rss_published_at": ""
+    },
+    {
+      "index": 246,
+      "title": "Why advanced therapy medicinal products struggle in clinical translation: an in-depth analysis of developmental challenges in the EU",
+      "ja_title": "先進治療薬が臨床応用で苦戦する理由：EUにおける開発上の課題に関する詳細な分析",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1839531",
+      "rss_published_at": ""
+    },
+    {
+      "index": 247,
+      "title": "Preparing tomorrow’s physicians for AI-driven healthcare: insights from a study on medical students’, interns’, and residents’ knowledge, attitudes, and educational needs",
+      "ja_title": "AIを活用した医療に対応できる未来の医師を育成する：医学生、研修医、レジデントの知識、態度、教育ニーズに関する研究からの知見",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1799061",
+      "rss_published_at": ""
+    },
+    {
+      "index": 248,
+      "title": "A virtual reality-based multicomponent intervention program for preventing postoperative delirium in the intensive care unit for cardiac surgery patients: from evidence-based design to a pilot trial",
+      "ja_title": "心臓手術患者の集中治療室における術後せん妄予防のための仮想現実ベースの多要素介入プログラム：エビデンスに基づく設計からパイロット試験まで",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1815659",
+      "rss_published_at": ""
+    },
+    {
+      "index": 249,
+      "title": "Menstrual cycle patterns in primary care: a structured approach using primary ovarian insufficiency as a sentinel condition",
+      "ja_title": "プライマリケアにおける月経周期パターン：原発性卵巣機能不全を指標疾患とした構造化アプローチ",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1795149",
+      "rss_published_at": ""
+    },
+    {
+      "index": 250,
+      "title": "Clinical characteristics and prognostic differences between elderly-onset and adult-onset ulcerative colitis: a two-center retrospective cohort study",
+      "ja_title": "高齢者発症型潰瘍性大腸炎と成人発症型潰瘍性大腸炎の臨床的特徴と予後における差異：2施設共同後向きコホート研究",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1847513",
+      "rss_published_at": ""
+    },
+    {
+      "index": 251,
+      "title": "Case Report: Probable manic episode induced by PEG-IFN α-2b in a chronic hepatitis B patient—multidisciplinary management insights",
+      "ja_title": "症例報告：慢性B型肝炎患者におけるPEG-IFN α-2b誘発性躁病エピソードの可能性―多職種連携による管理の考察",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1849394",
+      "rss_published_at": ""
+    },
+    {
+      "index": 252,
+      "title": "Case Report: Retrospective surgeon-guided reassessment of clinical target volume delineation in low-dose radiotherapy for postoperative chylothorax: an eight-patient case series",
+      "ja_title": "症例報告：術後乳び胸に対する低線量放射線療法における臨床標的体積の輪郭描出に関する外科医主導による後向き再評価：8症例シリーズ",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1828683",
+      "rss_published_at": ""
+    },
+    {
+      "index": 253,
+      "title": "Case Report: Invasive pulmonary aspergillosis caused by Aspergillus lentulus in a boy with chronic granulomatous disease",
+      "ja_title": "症例報告：慢性肉芽腫症の男児におけるアスペルギルス・レンツルスによる侵襲性肺アスペルギルス症",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1813957",
+      "rss_published_at": ""
+    },
+    {
+      "index": 254,
+      "title": "Integrated management of dry eye–depression comorbidity: mechanistic insights and temporal therapeutic strategies",
+      "ja_title": "ドライアイとうつ病の併存疾患に対する統合的管理：メカニズム的洞察と時間的治療戦略",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1829273",
+      "rss_published_at": ""
+    },
+    {
+      "index": 255,
+      "title": "Differentiating naturally occurring and disease associated autoantibodies in MPO-ANCA vasculitis through immunogenomic and epitope comparisons",
+      "ja_title": "免疫ゲノムおよびエピトープ比較によるMPO-ANCA血管炎における自然発生自己抗体と疾患関連自己抗体の鑑別",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1784607",
+      "rss_published_at": ""
+    },
+    {
+      "index": 256,
+      "title": "Performance of a prototype electric silicone oil injector and aspirator in vitreoretinal surgery",
+      "ja_title": "硝子体網膜手術における試作型電動シリコーンオイル注入器および吸引器の性能",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1855415",
+      "rss_published_at": ""
+    },
+    {
+      "index": 257,
+      "title": "Social isolation and loneliness: an integration framework for medical education",
+      "ja_title": "社会的孤立と孤独：医学教育のための統合フレームワーク",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1813649",
+      "rss_published_at": ""
+    },
+    {
+      "index": 258,
+      "title": "Mobile health for chronic obstructive pulmonary disease: a bibliometric analysis based on integrated databases (2000–2025)",
+      "ja_title": "慢性閉塞性肺疾患に対するモバイルヘルス：統合データベースに基づく書誌計量分析（2000年～2025年）",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1803815",
+      "rss_published_at": ""
+    },
+    {
+      "index": 259,
+      "title": "Spinal and supraspinal mechanisms of chronic itch: from neuronal circuits to the neuro-immune-microbial axis",
+      "ja_title": "慢性掻痒の脊髄および脊髄上位メカニズム：神経回路から神経免疫微生物軸まで",
+      "media": "Frontiers in Medicine",
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1810269",
+      "rss_published_at": ""
+    },
+    {
+      "index": 260,
+      "title": "Calcium signaling and postsynaptic density dynamics: the roles of calmodulin in synaptic protein regulation",
+      "ja_title": "カルシウムシグナル伝達とシナプス後密度動態：シナプスタンパク質調節におけるカルモジュリンの役割",
+      "media": "Frontiers in Molecular Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnmol.2026.1831452",
       "rss_published_at": ""
     }
   ]
