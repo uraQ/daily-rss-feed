@@ -1,92 +1,164 @@
 {
   "meta": {
     "schema_version": "1.0",
-    "generated_at": "2026-06-07 11:23:52",
-    "date_jst": "2026-06-07",
-    "item_count": 10,
+    "generated_at": "2026-06-08 11:23:54",
+    "date_jst": "2026-06-08",
+    "item_count": 19,
     "source_name": "今日の新着",
     "description": "医学・科学系学術誌や関連ソースのRSSフィード新着一覧"
   },
   "items": [
     {
       "index": 1,
-      "title": "Sensing the Landscape: An Ethnography of Blindness By Karis Jade Petty, New York, NY: Routledge, 2025, 208 pp. ISBN: 978‐0‐367‐65022‐3",
-      "ja_title": "『風景を感じ取る：盲目の民族誌』カリス・ジェイド・ペティ著、ニューヨーク：ラウトレッジ、2025年、208ページ、ISBN：978‐0‐367‐65022‐3",
-      "media": "Medical Anthropology Quarterly (MAQ)",
-      "url": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/maq.70070?af=R",
-      "rss_published_at": "2026-06-05T19:35:13.000Z"
+      "title": "Randomised controlled feasibility trial of an intervention to increase activity and reduce sedentary behaviour in people with severe mental illness: Walking fOR Health (WORtH) study",
+      "ja_title": "重度の精神疾患患者における活動量の増加と座りがちな行動の減少を目的とした介入の無作為化比較実現可能性試験：ウォーキング・フォー・ヘルス（WORtH）研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e107567?rss=1",
+      "rss_published_at": "2026-06-08T00:00:59.000Z"
     },
     {
       "index": 2,
-      "title": "Weekend reads: Moffitt executive steps down following probe; a hijab-switching scandal; NSF’s watchdog unit empty",
-      "ja_title": "週末の注目記事：モフィットがんセンター幹部が調査を受けて辞任。ヒジャブ交換スキャンダル発覚。全米科学財団（NSF）の監視部門が空席に",
-      "media": "Retraction Watch",
-      "url": "https://retractionwatch.com/2026/06/06/weekend-reads-moffitt-executive-steps-down-hijab-switching-scandal-nsf-watchdog-unit-empty/",
-      "rss_published_at": "2026-06-06T10:00:00.000Z"
+      "title": "Virtual simulation and trajectory tracking control of an autonomous underwater vehicle in Unity environment",
+      "ja_title": "Unity環境における自律型水中ビークルの仮想シミュレーションと軌道追跡制御",
+      "media": "Frontiers in Virtual Reality",
+      "url": "https://www.frontiersin.org/articles/10.3389/frvir.2026.1800534",
+      "rss_published_at": ""
     },
     {
       "index": 3,
-      "title": "Editors of semantics journal resign, launch new journal after publisher ‘ultimatum’",
-      "ja_title": "意味論専門誌の編集者らが辞任、出版社からの「最後通告」を受け新誌を創刊",
-      "media": "Retraction Watch",
-      "url": "https://retractionwatch.com/2026/06/05/natural-language-semantics-journal-editors-resign-launch-new-journal/",
-      "rss_published_at": "2026-06-05T17:20:11.000Z"
+      "title": "You got to coordinate, stably: 3D bimanual guidance with haptic and auditory cues",
+      "ja_title": "安定した連携が求められます：触覚と聴覚による合図を備えた3D両手操作ガイダンス",
+      "media": "Frontiers in Virtual Reality",
+      "url": "https://www.frontiersin.org/articles/10.3389/frvir.2026.1757963",
+      "rss_published_at": ""
     },
     {
       "index": 4,
-      "title": "Electroconvulsive Therapy and Time to Psychiatric Readmission in Schizophrenia",
-      "ja_title": "統合失調症における電気けいれん療法と精神科再入院までの時間",
-      "media": "Acta Psychiatrica Scandinavica",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/acps.70115?af=R",
-      "rss_published_at": "2026-06-05T07:41:26.000Z"
+      "title": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+      "ja_title": "肥満および代謝機能障害に伴う脂肪性肝疾患を有する成人におけるスルボデュチド：SYNCHRONIZE-MASLD、無作為化二重盲検プラセボ対照第3相試験",
+      "media": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04479-3",
+      "rss_published_at": "2026-06-07T00:00:00.000Z"
     },
     {
       "index": 5,
-      "title": "Cortical morphometric correlates of childhood adversity and learning burnout in depressive adolescents with non-suicidal self-injury",
-      "ja_title": "自殺願望のない自傷行為を伴う抑うつ状態の青年における、幼少期の逆境と学習バーンアウトの皮質形態計測学的相関関係",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009456?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "Use of medicinal herbs in an Iranian population: cross-sectional findings from the Fasa PERSIAN Cohort Study",
+      "ja_title": "イラン人集団における薬草の使用：ファサ・ペルシャ人コホート研究からの横断的知見",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e104459?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
     },
     {
       "index": 6,
-      "title": "Trajectories of internalizing problems during and after the COVID-19 pandemic: The effects of sex and early life stress",
-      "ja_title": "新型コロナウイルス感染症パンデミック中およびパンデミック後の内面化問題の軌跡：性別と幼少期のストレスの影響",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009419?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "ElucidatiNg Immunosuppressant pharmacokinetic variabilities by investigating Gut Microbiome modulations After kidney transplantation (ENIGMA): study protocol of a prospective longitudinal trial",
+      "ja_title": "腎移植後の腸内細菌叢の変化を調査することによる免疫抑制剤の薬物動態変動の解明（ENIGMA）：前向き縦断試験の試験プロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e106623?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
     },
     {
       "index": 7,
-      "title": "Sociodemographic and clinical characteristics of suicide methods in Denmark: A nationwide registry-based study of suicides during 2010–2020",
-      "ja_title": "デンマークにおける自殺方法の社会人口学的および臨床的特徴：2010年から2020年までの自殺に関する全国登録データに基づく研究",
-      "media": "Journal of Affective Disorders",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726008840?dgcid=rss_sd_all",
-      "rss_published_at": ""
+      "title": "Global prevalence and determinants of hospital-acquired COVID-19: protocol for a systematic review and meta-analysis",
+      "ja_title": "院内感染型COVID-19の世界的な蔓延状況と決定要因：系統的レビューとメタ分析のプロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e113205?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
     },
     {
       "index": 8,
-      "title": "Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy",
-      "ja_title": "原発性膜性腎症におけるオビヌツズマブまたはタクロリムス",
-      "media": "NEJM",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602678?af=R&rss=currentIssue",
-      "rss_published_at": "2026-06-05T11:10:00.000Z"
+      "title": "Feasibility of NIV-NAVA as a primary respiratory support and its clinical impacts in a targeted group of preterm infants: protocol for a prospective observational study",
+      "ja_title": "早産児を対象とした主要な呼吸補助法としてのNIV-NAVAの実現可能性と臨床的影響：前向き観察研究のプロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e114353?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
     },
     {
       "index": 9,
-      "title": "Reinforcement sensitivity phenotype modulates the impact of chronic stress on hedonic capacity in rats, but not the response to fluoxetine",
-      "ja_title": "強化感受性表現型はラットの快楽能力に対する慢性ストレスの影響を調節するが、フルオキセチンへの反応は調節しない",
-      "media": "PubMed: depression AND SSRI/SNRI",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42249157/",
-      "rss_published_at": "2026-06-05T10:00:00.000Z"
+      "title": "Temporal trends and future projections of fertility and birth rates in Georgia: a retrospective observational study",
+      "ja_title": "ジョージアにおける出生率と出生数の経時的変化と将来予測：回顧的観察研究",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e116609?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
     },
     {
       "index": 10,
-      "title": "Evaluating Treatment Sequences in Major Depressive Disorder Using an Open-Source Health Economic Model Based on Stakeholder and Patient Engagement",
-      "ja_title": "利害関係者と患者の参加に基づくオープンソースの医療経済モデルを用いた、大うつ病性障害における治療シーケンスの評価",
-      "media": "PubMed: depression AND SSRI/SNRI",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42248243/",
-      "rss_published_at": "2026-06-05T10:00:00.000Z"
+      "title": "Behavioural activation for the prevention of poststroke depression in low-income older stroke survivors (LIVE WEL): protocol for a randomised controlled trial",
+      "ja_title": "低所得の高齢脳卒中生存者における脳卒中後うつ病予防のための行動活性化療法（LIVE WEL）：無作為化比較試験のプロトコル",
+      "media": "BMJ Open",
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e120452?rss=1",
+      "rss_published_at": "2026-06-07T13:00:57.000Z"
+    },
+    {
+      "index": 11,
+      "title": "Book review: ‘Get it out: On the Politics of Hysterectomy’",
+      "ja_title": "書評：「子宮摘出術：子宮摘出術の政治学」",
+      "media": "Somatosphere",
+      "url": "https://somatosphere.net/book-review-get-it-out-on-the-politics-of-hysterectomy/",
+      "rss_published_at": "2026-06-07T10:51:45.000Z"
+    },
+    {
+      "index": 12,
+      "title": "Striatal DAT-SPECT texture beyond mean binding in major depressive disorder",
+      "ja_title": "大うつ病における平均結合を超えた線条体DAT-SPECTテクスチャ",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009511?dgcid=rss_sd_all",
+      "rss_published_at": ""
+    },
+    {
+      "index": 13,
+      "title": "Evaluating change in and predictors of depressive symptoms and parenting skills at a psychiatric mother-baby unit - a retrospective analysis of routine data",
+      "ja_title": "精神科母子病棟における抑うつ症状と育児スキルの変化および予測因子の評価 ― 日常データの遡及的分析",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009523?dgcid=rss_sd_all",
+      "rss_published_at": ""
+    },
+    {
+      "index": 14,
+      "title": "The mediating role of rumination in the relationship between traumatic childbirth perception, birth satisfaction, and postpartum depressive symptoms",
+      "ja_title": "トラウマ的な出産認識、出産満足度、産後うつ症状の関係における反芻思考の媒介的役割",
+      "media": "Journal of Affective Disorders",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032726009535?dgcid=rss_sd_all",
+      "rss_published_at": ""
+    },
+    {
+      "index": 15,
+      "title": "Neovascularization of the Disk in Proliferative Diabetic Retinopathy",
+      "ja_title": "増殖性糖尿病網膜症における視神経乳頭の新生血管形成",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMicm2601416?af=R&rss=currentIssue",
+      "rss_published_at": "2026-06-06T11:30:00.000Z"
+    },
+    {
+      "index": 16,
+      "title": "Carrier",
+      "ja_title": "キャリア",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2513897?af=R&rss=currentIssue",
+      "rss_published_at": "2026-06-06T11:30:00.000Z"
+    },
+    {
+      "index": 17,
+      "title": "Prescription without Precision — Dangers of Dosing on the Basis of Race as Biology",
+      "ja_title": "不正確な処方 ― 生物学としての人種に基づく投薬の危険性",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2516090?af=R&rss=currentIssue",
+      "rss_published_at": "2026-06-06T11:30:00.000Z"
+    },
+    {
+      "index": 18,
+      "title": "Detecting Gambling-Related Problems — An Opportunity to Reduce Suicidality",
+      "ja_title": "ギャンブル関連問題の発見 ― 自殺リスク軽減の機会",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2517679?af=R&rss=currentIssue",
+      "rss_published_at": "2026-06-06T11:30:00.000Z"
+    },
+    {
+      "index": 19,
+      "title": "Global Cholera-Control Efforts — Progress and Remaining Challenges",
+      "ja_title": "世界的なコレラ対策の取り組み ― 進捗状況と残された課題",
+      "media": "NEJM",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2600873?af=R&rss=currentIssue",
+      "rss_published_at": "2026-06-06T11:30:00.000Z"
     }
   ]
 }
